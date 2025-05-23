@@ -6,6 +6,14 @@
   url: "/about/"
   side: left
 
+- title: "Rides"
+  url: "/zachTest/"
+  side: "left"
+
+- title: Sponsors
+  url: "/zachTest/sponsors/"
+  side: left
+
 - title: Events
   url: "/events/"
   side: left
