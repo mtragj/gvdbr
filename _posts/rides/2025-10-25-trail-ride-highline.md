@@ -9,23 +9,24 @@ tags:
     - ride
 categories:
     - rides
+    - north_desert
 show_meta: false    
 image:
-    thumb: vega_silver_spruce_aspens_300x255.jpg
-    homepage: vega_silver_spruce_aspens_1024x768.jpg
-    title: vega_silver_spruce_aspens_1024x768.jpg
-    caption: Silver Spruce Trail
+    thumb: blm_100_ktm_300x255.jpg
+    homepage: blm_100_ktm_1024x768.jpg
+    title: blm_100_ktm_1024x768.jpg
+    caption: BLM 100 Hilltop View
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: 10:00 am Oct 25th, 2025
     sun: 10:00 am Oct 26th, 2025
-    where: Vega State Park Staging Area
+    where: 18 Road Staging Area
     leader: Ben Larson
     difficulty: Intermediate
     distance: 60 Miles
     pace: Moderate
     terrain: Flowy desert single-track, whoops, washes.
-    directions: https://maps.app.goo.gl/hxhmKWz1EDEHppuy8
+    directions: https://maps.app.goo.gl/ArFrcZMM5gHDtW876
 ---
 Join us as we ride flowy desert single-track in the North Fruita Desert nearly all the way to the Utah State Border.
 

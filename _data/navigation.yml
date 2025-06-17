@@ -2,18 +2,32 @@
   url: "/"
   side: left
 
-- title: "Rides"
+- title: About the MTRA
+  url: "/about/"
+  side: left
+
+# - title: Sponsors
+#   url: "/zachTest/sponsors/"
+#   side: left
+
+- title: News
+  url: "/news/"
+  side: left
+
+- title: Rides
   url: "/rides/"
-  side: "left"
+  side: left
+  dropdown:
+  - title: "North Desert"
+    url: "/rides/north_desert.html"  
+  - title: "Rabbit Valley"
+    url: "/rides/rabbit_valley.html"
+  - title: "Bangs Canyon"
+    url: "/rides/bangs_canyon.html"    
 
 - title: Sponsors
   url: "/sponsors/"
   side: left
-
-- title: Register
-  url: "/register/"
-  side: left
-
 
 # - title: "Templates"
 #   url: "/design/"
