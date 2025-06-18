@@ -19,11 +19,11 @@
   side: left
   dropdown:
   - title: "North Desert"
-    url: "/rides/north_desert.html"  
+    url: "/rides/north_desert/"  
   - title: "Rabbit Valley"
-    url: "/rides/rabbit_valley.html"
+    url: "/rides/rabbit_valley/"
   - title: "Bangs Canyon"
-    url: "/rides/bangs_canyon.html"    
+    url: "/rides/bangs_canyon/"    
 
 - title: Sponsors
   url: "/sponsors/"
