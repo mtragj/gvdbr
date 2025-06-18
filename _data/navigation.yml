@@ -6,24 +6,9 @@
   url: "/about/"
   side: left
 
-- title: "Rides"
-  url: "/zachTest/"
-  side: "left"
-
-- title: Sponsors
-  url: "/zachTest/sponsors/"
-  side: left
-
-- title: Events
-  url: "/events/"
-  side: left
-
-- title: Volunteer
-  url: "/volunteer/"
-  side: left
-  dropdown:
-  - title: "Log Hours"
-    url: "https://docs.google.com/forms/d/e/1FAIpQLSfBN1EGAMGyWHngUZq7tal2EMLzIZejNiEJyKooNXWaymBXGw/viewform"  
+# - title: Sponsors
+#   url: "/zachTest/sponsors/"
+#   side: left
 
 - title: News
   url: "/news/"
@@ -31,10 +16,17 @@
 
 - title: Rides
   url: "/rides/"
-  side: left  
+  side: left
+  dropdown:
+  - title: "North Desert"
+    url: "/rides/north_desert.html"  
+  - title: "Rabbit Valley"
+    url: "/rides/rabbit_valley.html"
+  - title: "Bangs Canyon"
+    url: "/rides/bangs_canyon.html"    
 
-- title: Vendors
-  url: "/vendors/"
+- title: Sponsors
+  url: "/sponsors/"
   side: left
 
 # - title: "Templates"
