@@ -80,6 +80,7 @@ exclude:
     - README.md
     - INSTALL.md
     - vendor
+    - _internal/
 
 
 # The language setting is used in /includes/header.html for html-settings
