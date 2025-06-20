@@ -44,7 +44,7 @@ urlimg: 'https://mtragj.github.io/gvdbr/images/' # TODO revert url before publis
 
 
 # Logo size is 600x80 pixels
-logo: "MTRA_banner_logo_thin_outline.png"
+logo: "gvdbr_logo_409_160.png"
 
 # Plugins
 plugins:
