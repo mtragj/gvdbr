@@ -8,20 +8,22 @@ layout: frontpage
 header:
   image_fullwidth: bookcliffs_garfield_sunset_ktm.png
 widget1:
-  title: "About the MTRA"
-  url: '/about/'
-  image: cropped-MTRA-logo-transparent-1_271_271.png
-  text: 'Motorcycle Trail Riding Association (MTRA) is a nonprofit organization governed by a volunteer board of directors representing Western Slope dirt bikers. We are funded through annual membership fees, donations, and grants.'
+  title: "Ride with Us!"
+  url: '/rides/'
+  image: gvdbr_logo_271_168.png
+  text: 'Come ride with us at the first Grand Valley Dirt Bike Rally put on by the MTRA! We will be riding 3 different areas with a variety of lengths and difficulty.'
+
 # widget2:
 #   title: "Why use this theme?"
 #   url: 'http://phlow.github.io/feeling-responsive/info/'
 #   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
 #   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+
 widget3:
-  title: "Ride with Us!"
-  url: 'https://mtragj.org/rides/'
-  image: mtra_motomeetup_270x323.jpg
-  text: 'Come ride with us at regulary scheduled meetups where we''ll explore local trails and riding areas and provide the opportunity to meet other local riders.'
+  title: "About the MTRA"
+  url: '/about/'
+  image: mtra_logo_new_271_221.png
+  text: 'Motorcycle Trail Riding Association (MTRA) is a nonprofit organization governed by a volunteer board of directors representing Western Slope dirt bikers. We are funded through annual membership fees, donations, and grants.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,8 +35,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://forms.gle/tA77sVKiLEMGxnZ76
-  text: Become a member of the MTRA ›
+  url: /
+  text: Register for 2025 GVDBR (coming soon!) ›
   style: alert
 permalink: /index.html
 #
@@ -46,8 +48,8 @@ homepage: true
 # carousels:
 #   - images: 
 #     - image: images/20231221_155601_cropped.jpg # images/cropped-MTRA-logo-transparent-1_182_182.png
-#     - image: images/20231231_131824_cropped.jpg # images/cropped-MTRA-logo-transparent-1_271_271.png
-#     - image: images/PXL_20231218_213217504_cropped.jpg # images/cropped-MTRA-logo-transparent-1_271_271.png
+#     - image: images/20231231_131824_cropped.jpg # images/mtra_logo_new_271_221.png
+#     - image: images/PXL_20231218_213217504_cropped.jpg # images/mtra_logo_new_271_221.png
 ---
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
