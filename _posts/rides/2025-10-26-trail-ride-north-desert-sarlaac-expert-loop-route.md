@@ -3,7 +3,7 @@ layout: ride
 sidebar: right
 subheadline: Trail Ride
 title:  "North Desert - Sarlaac Loop"
-teaser: "31 mile loop through the North Fruita Desert Book Cliffs."
+teaser: "47 mile intense, challenging loop through the North Fruita Desert Book Cliffs."
 breadcrumb: true
 tags:
     - ride
