@@ -12,7 +12,7 @@ categories:
     - bangs_canyon
 show_meta: false    
 image:
-    thumb: bangs_intermediate.jpg
+    thumb: bangs_scenic.jpg
     homepage: bangs_intermediate.jpg
     title: bangs_intermediate.jpg
     caption: Second Thoughts
