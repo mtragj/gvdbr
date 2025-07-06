@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: sarlacc_scenic_st_wide.jpg
 widget1:
-  title: "Ride with Us!"
+  title: "Ride with Us!<br> October 25th - 26th, 2025"
   url: '/rides/'
   image: gvdbr_logo_271_168.png
   text: 'Come ride with us at the first Grand Valley Dirt Bike Rally put on by the MTRA! We will be offering guided rides in 3 different areas with a variety of lengths and difficulty.'
