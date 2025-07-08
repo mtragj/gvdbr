@@ -1,5 +1,5 @@
 ---
-layout              : register
+layout              : default
 sidebar             : right
 show_meta           : false
 title               : "Register"

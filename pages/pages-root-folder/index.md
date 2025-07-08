@@ -35,7 +35,7 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: /
+  url: /register/
   text: Register for 2025 GVDBR (coming soon!) ›
   style: alert
 permalink: /index.html
