@@ -18,8 +18,8 @@ image:
     caption: Second Thoughts
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: 10:00 am Oct 25th, 2025
-    sun: 
+    sat: 9:30 am Oct 25th, 2025
+    sun: 9:30 am Oct 26th, 2025
     where: Bangs Canyon
     leader: Kyle Muhr
     difficulty: Advanced
