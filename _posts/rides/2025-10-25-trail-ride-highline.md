@@ -18,15 +18,15 @@ image:
     caption: BLM 100 Hilltop View
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: 10:00 am Oct 25th, 2025
-    sun: 10:00 am Oct 26th, 2025
+    sat: 8:00 am Oct 25th, 2025
+    sun: N/A
     where: 18 Road Staging Area
     leader: Ben Larson
     difficulty: Intermediate
     distance: 60 Miles
     pace: Moderate
     terrain: Flowy desert single-track, whoops, washes.
-    directions: https://maps.app.goo.gl/ArFrcZMM5gHDtW876
+    directions: https://www.google.com/maps/search/39.255649,+-108.718538?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD
 ---
 Join us as we ride flowy desert single-track in the North Fruita Desert nearly all the way to the Utah State Border.
 

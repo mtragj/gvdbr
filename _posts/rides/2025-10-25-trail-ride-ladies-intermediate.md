@@ -18,7 +18,7 @@ image:
     caption: Sarlacc Scenic View
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: 10:00 am Oct 25th, 2025
+    sat: 10:30 am Oct 25th, 2025
     sun: N/A
     where: 18 Road Staging Area
     leader: Leah Hendricks
@@ -26,7 +26,7 @@ ride:
     distance: 31 Miles
     pace: Moderate
     terrain: 50/50 mix of scenic two-track and technical intermediate single-track.
-    directions: https://maps.app.goo.gl/ArFrcZMM5gHDtW876
+    directions: https://www.google.com/maps/search/39.354182,+-108.724271?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=035ff3a8-0943-431b-bbfd-f12ad63cc974
 ---
 31 mile loop on the edge of the Bookcliffs above the North Fruita Desert.
 

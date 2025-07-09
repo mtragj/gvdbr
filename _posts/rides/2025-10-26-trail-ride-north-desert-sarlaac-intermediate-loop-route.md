@@ -18,15 +18,15 @@ image:
     caption: North Dez Sarlaac Loop
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: N/A
-    sun: 10:00 am Oct 26th, 2025
+    sat: 9:30 am Oct 25th, 2025
+    sun: 9:30 am Oct 26th, 2025
     where: 18 Road BLM Area
     leader: Daniel Guy
     difficulty: Intermediate
     distance: 31 Miles
     pace: Moderate
     terrain: Flowy, fun, fantastic! Considerable exposure, but the moderate pace will make travel through these areas safer. Singletrack, doubletrack.
-    directions: https://www.google.com/maps/search/39.295557,+-108.708304?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD
+    directions: https://www.google.com/maps/search/39.354182,+-108.724271?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=035ff3a8-0943-431b-bbfd-f12ad63cc974
 ---
 "The trail ride will begin along 16 Road (Coal Gulch), at a parking lot
 approximately 18 miles north of the highway in Fruita. We will climb the Book

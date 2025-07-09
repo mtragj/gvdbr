@@ -18,15 +18,15 @@ image:
     caption: North Dez Sarlaac Loop
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: N/A
-    sun: 10:00 am Oct 26th, 2025
+    sat: 9:00 am Oct 25th, 2025
+    sun: 9:00 am Oct 26th, 2025
     where: 18 Road BLM Area
-    leader: David Hazleton
+    leader: David Hazleton (Sat)/ Ronnie Bennet (Sun)
     difficulty: Advanced
     distance: 47 Miles
     pace: Moderate to fast
     terrain: Flowy bench cut singletrack with consistent exposure, and moderate obstacles. Exposure is high the first half of this ride, but tapers off toward the end of the ride.
-    directions: https://www.google.com/maps/search/39.295557,+-108.708304?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD
+    directions: https://www.google.com/maps/search/39.354182,+-108.724271?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=035ff3a8-0943-431b-bbfd-f12ad63cc974
 ---
 "47 mile Advanced skill level Sarlac/North Desert loop. Ride begins at 5,300 ft elevation, climbing up to 7,400 ft elevation. Lots of open edge vertical exposure; if you deal with vertigo, this is not the ride for you. 
 
