@@ -25,6 +25,10 @@
   - title: "Bangs Canyon"
     url: "/rides/bangs_canyon/"    
 
+- title: Register
+  url: "/register/"
+  side: left
+
 - title: Sponsors
   url: "/sponsors/"
   side: left

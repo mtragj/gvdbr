@@ -26,3 +26,6 @@ sass:
 google_analytics_tracking_id: false
 
 future: true
+
+# Logo size is 600x80 pixels
+logo: 'gvdbr_banner_2666_464.png'
