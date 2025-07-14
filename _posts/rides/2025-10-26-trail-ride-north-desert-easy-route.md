@@ -18,7 +18,7 @@ image:
     caption: North Dez Easy
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: N/A
+    sat: 10:00 am Oct 25th, 2025
     sun: 10:00 am Oct 26th, 2025
     where: 18 Road Staging Area
     leader: 

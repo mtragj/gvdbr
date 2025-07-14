@@ -18,14 +18,14 @@ image:
     caption: Trail 2
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: N/A
-    sun: 10:00 am Oct 26th, 2025
+    sat: 9:30 am Oct 25th, 2025
+    sun: 9:30 am Oct 26th, 2025
     where: Rabbit Valley
-    leader: Stephan Kaufmann and Alex K.
+    leader: Stephan Kaufmann 
     difficulty: Intermediate
     distance: 27.6 Miles
     pace: Slow, Moderate
     terrain: Singletrack, 50" OHV, Full width OHV. Moderate ledges, sand, loose rock, exposure, ledge drops.
-    directions: https://www.google.com/maps/place/Rabbit+Valley+Trails+4+and+5/@39.1870216,-109.0191362,172m/data=!3m1!1e3!4m6!3m5!1s0x87464fc0fe69e2eb:0x53b90b7d607e202a!8m2!3d39.1871305!4d-109.0188794!16s%2Fg%2F11twwvv3hx?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD
+    directions: https://www.google.com/maps/search/39.187043,+-109.018870?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=3bf1c2b4-6e2d-44d6-953b-1eaeeb49e25d
 ---
 This ride is great for anyone who likes an easier pace on fun obstacles, and some twisty singletracks. The trai1l begins on Trail #2 where riders will have a fun warmup through some good flowy dirt whoops, a few small ledges, and some sand whoops. Trail #2 will then meet up with the Western Rim singletrack where there are moderate amounts of exposure from time to time, but great views of the Colorado River as it traverses atop the canyon walls nearly the entire trail. The halfway point is at the end of Western Rim, where the group will ascend a technical hill that includes a couple switchbacks and some loose rock. The loop will return on the Kokopelli and Westwater Loop trail which is full width OHV the remainder of the trip. 

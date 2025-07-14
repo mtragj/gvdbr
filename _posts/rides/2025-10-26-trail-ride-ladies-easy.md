@@ -19,14 +19,14 @@ image:
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: N/A
-    sun: 10:00 am Oct 26th, 2025
+    sun: 10:30 am Oct 26th, 2025
     where: 18 Road Staging Area
     leader: Leah Hendricks
     difficulty: Easy
     distance: 15 Miles
     pace: Comfortable
     terrain: A mix of easy two-track and easy single-track
-    directions: https://maps.app.goo.gl/ArFrcZMM5gHDtW876
+    directions: https://www.google.com/maps/search/39.255649,+-108.718538?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD
 ---
 15 mile loop through the North Fruita Desert.  
 
