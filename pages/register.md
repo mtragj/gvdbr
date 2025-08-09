@@ -36,6 +36,11 @@ The 2025 Grand Valley Dirt Bike Rally will be hosted on October 25th - 27th, 202
     There will be a <strong>5% service fee</strong> and <strong>$0.50 transaction fee</strong> charged by Sign Up Genius for each ride you sign up for.
   </p>
 
+    <h3 style="color:rgb(16, 27, 80);">Bike and Rider Requirements</h3>
+  <p>
+    Ensure your bike is in a well-maintained, good working condition before showing up for your ride. Bring tools to be able to address problems on the trail and ensure you bring lots of food and water. Helmet, eye protection, boots, gloves, and long pants are required. 
+  </p>
+
 <a class="radius button small" href="https://www.signupgenius.com/go/10C0549ABA72EA7F8C16-57468629-grand#/">Register for the Event!</a>
 
  <!--[1]: {{ site.url }}{{ site.baseurl }}/documentation/-->
