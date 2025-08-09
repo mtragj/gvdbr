@@ -3,7 +3,7 @@ layout: ride
 sidebar: right
 subheadline: Trail Ride
 title:  "Rabbit Valley - Extreme Route"
-teaser: "36.7 fast-paced, extremely difficult ride through Rabbit Valley"
+teaser: "50 fast-paced, extremely difficult ride through Rabbit Valley"
 breadcrumb: true
 tags:
     - ride
