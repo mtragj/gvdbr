@@ -51,36 +51,32 @@ permalink: "/sponsors/"
 
 <div class="sponsor-row">
   <div class="sponsor">
-    <a href="https://www.gjktm.com/"><img src="{{ site.urlimg }}teddymorse_gj.png" alt=""></a>
-    <p><a href="https://www.gjktm.com/">Teddy Morse's Grand Junction Powersports</a></p>
-  </div>
-  <div class="sponsor">
-    <a href="https://www.all-terrainmoto.com/"><img src="{{ site.urlimg }}allterrain_logo.png" alt=""></a>
-    <p><a href="https://www.all-terrainmoto.com/">All Terrain Motorsports</a></p>
-  </div>
-  <div class="sponsor">
     <a href="https://www.motorcycleaccessoriesgj.com/"><img src="{{ site.urlimg }}motorcycle_accessories.png" alt=""></a>
     <p><a href="https://www.motorcycleaccessoriesgj.com/">Motorcycle Accessories</a></p>
+  </div>
+    <div class="sponsor">
+    <a href="https://www.motominded.com/"><img src="{{ site.urlimg }}motominded_logo.gif" alt=""></a>
+    <p><a href="https://www.motominded.com/">MotoMinded</a></p>
+  </div>
+  <div class="sponsor">
+    <a href="https://www.gjktm.com/"><img src="{{ site.urlimg }}teddymorse_gj.png" alt=""></a>
+    <p><a href="https://www.gjktm.com/">Teddy Morse's Grand Junction Powersports</a></p>
   </div>
   <div class="sponsor">
     <a href="https://adcustomzgj.com/"><img src="{{ site.urlimg }}ad_customz_logo_blue.jpg" alt=""></a>
     <p><a href="https://adcustomzgj.com/">AD Customz</a></p>
   </div>
   <div class="sponsor">
-    <a href="https://www.windycitymc.com/--moto-house-grand-junction"><img src="{{ site.urlimg }}motohousegrandjunction-logo.png" alt=""></a>
-    <p><a href="https://www.windycitymc.com/--moto-house-grand-junction">MotoHouse</a></p>
+    <a href="https://www.all-terrainmoto.com/"><img src="{{ site.urlimg }}allterrain_logo.png" alt=""></a>
+    <p><a href="https://www.all-terrainmoto.com/">All Terrain Motorsports</a></p>
   </div>
-  <div class="sponsor">
-    <a href="https://www.motominded.com/"><img src="{{ site.urlimg }}motominded_logo.gif" alt=""></a>
-    <p><a href="https://www.motominded.com/">MotoMinded</a></p>
+    <div class="sponsor">
+    <a href="https://www.doubletakemirror.com/"><img src="{{ site.urlimg }}1755365353685-578687d4-1666-4213-9da5-742ae1ead459_1.jpg" alt=""></a>
+    <p><a href="https://www.doubletakemirror.com/">Double Take Mirror</a></p>
   </div>
   <div class="sponsor">
     <a href="https://www.adacgj.com/"><img src="{{ site.urlimg }}ADAC LOGO BLK (3).png" alt=""></a>
     <p><a href="https://www.adacgj.com/">Adrenaline Driven Adventures Powersports Rentals and Tours</a></p>
-  </div>
-  <div class="sponsor">
-    <a href="https://www.doubletakemirror.com/"><img src="{{ site.urlimg }}1755365353685-578687d4-1666-4213-9da5-742ae1ead459_1.jpg" alt=""></a>
-    <p><a href="https://www.doubletakemirror.com/">Double Take Mirror</a></p>
   </div>
   <div class="sponsor">
     <a href="https://www.klim.com/"><img src="{{ site.urlimg }}sponsor-klim-image.jpg" alt=""></a>
