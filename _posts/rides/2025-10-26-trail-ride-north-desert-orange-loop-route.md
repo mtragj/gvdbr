@@ -19,7 +19,7 @@ image:
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: 9:30 am Oct 25th, 2025
-    sun: 9:30 am Oct 26th, 2025
+    sun: N/A
     where: 18 Road Staging Area
     leader: Ben Larson
     difficulty: Intermediate
