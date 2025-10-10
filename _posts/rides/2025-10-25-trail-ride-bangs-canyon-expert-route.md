@@ -21,7 +21,7 @@ ride:
     sat: 9:00 am Oct 25th, 2025
     sun: 9:00 am Oct 26th, 2025
     where: Bangs Canyon
-    leader: Perry Crider or Chris Vestal  / Ruxton Noble and Dan Gourly
+    leader: Perry Crider (Sat) / Ruxton Noble (Sun)
     difficulty: Expert
     distance: 43 Miles
     pace: Fast

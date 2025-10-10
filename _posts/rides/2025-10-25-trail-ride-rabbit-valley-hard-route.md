@@ -21,7 +21,7 @@ ride:
     sat: 9:00 am Oct 25th, 2025
     sun: 9:00 am Oct 26th, 2025
     where: Rabbit Valley
-    leader: Ronnie Bennet (Sat) / David Hazleton (Sun)
+    leader: Johnathan Van Fleet (Sat) / David Hazleton (Sun)
     difficulty: Hard
     distance: 36.3 Miles
     pace: Fast
