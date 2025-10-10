@@ -21,7 +21,7 @@ ride:
     sat: 9:30 am Oct 25th, 2025
     sun: N/A
     where: 18 Road Staging Area
-    leader: Ben Larson
+    leader: Chris Vestal
     difficulty: Intermediate
     distance: 17.3 Miles
     pace: Comfortable

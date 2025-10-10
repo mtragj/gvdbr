@@ -21,7 +21,7 @@ ride:
     sat: 9:00 am Oct 25th, 2025
     sun: 9:00 am Oct 26th, 2025
     where: 18 Road BLM Area
-    leader: David Hazleton (Sat)/ Ronnie Bennet (Sun)
+    leader: David Hazleton (Sat)/ Johnathan Van Fleet (Sun)
     difficulty: Advanced
     distance: 47 Miles
     pace: Moderate to fast

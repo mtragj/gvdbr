@@ -21,7 +21,7 @@ ride:
     sat: 8:30 am Oct 25th, 2025
     sun: 8:30 am Oct 26th, 2025
     where: Rabbit Valley
-    leader: Jonathan VanVleet (Sat) / Perry Crider (Sun)
+    leader: Chris Vestal (Sat) / Perry Crider (Sun)
     difficulty: Extreme
     distance: 50 Miles
     pace: Fast
