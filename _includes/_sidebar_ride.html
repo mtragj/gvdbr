@@ -10,6 +10,7 @@
             <li><b>Pace:</b> {{ page.ride.pace }}</li>
             <li><b>Distance:</b> {{ page.ride.distance }}</li>
             <li><b>Terrain:</b> {{ page.ride.terrain }}</li>
+			{% if page.ride.notes %}<li><b>Notes:</b> {{ page.ride.notes }}</li>{% endif %}
 		</ul>
 	</div>
 
