@@ -33,6 +33,10 @@
   url: "/sponsors/"
   side: left
 
+- title: Activities
+  url: "/activities/"
+  side: left
+
 # - title: "Templates"
 #   url: "/design/"
 #   side: left
