@@ -9,6 +9,11 @@ permalink: "/activities/"
 ---
 <!--more-->
 
+<div style="margin: 18px 0; padding: 12px 14px; background: #f3f4f6; border-radius: 6px;">
+  <p style="margin: 0 0 6px; font-weight: 700;">Event Location</p>
+  <p style="margin: 0;"><a href="https://maps.app.goo.gl/DyTFPyFCcu5sCqNt6" target="_blank" rel="noopener noreferrer">Open event map in Google Maps</a></p>
+</div>
+
 <style>
 /* Page container spacing */
 .activity-section {
