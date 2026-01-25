@@ -11,7 +11,7 @@ widget1:
   title: "Ride with Us!<br> October 16th - 18th, 2026"
   url: '/rides/'
   image: gvdbr_logo_271_168.png
-  text: 'Come ride with us at the first Grand Valley Dirt Bike Rally put on by the MTRA! We will be offering guided rides in 3 different areas with a variety of lengths and difficulty.'
+  text: 'The Grand Valley Dirt Bike Rally will return in 2026, put on by the MTRA! We will be offering guided rides in 3 different with a variety of lengths and difficulties as well as an event area with exciting activities.'
 
 # widget2:
 #   title: "Why use this theme?"
