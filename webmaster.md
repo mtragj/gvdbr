@@ -35,7 +35,7 @@ bundle install
 ```
 
 ## Common Commands
-* Fire up a local copy of the web site: `bundle exec jekyll server --config _config_dev.yml, _config.yml`
+* Fire up a local copy of the web site: `bundle exec jekyll server --config _config.yml,_config_dev.yml`
   * output will include a local URL to copy into your browser. E.G. `http://127.0.0.1:4000/mtra/`
   * For most content updates the site will auto-regenerate when you edit a file
   * For more substantial changes (coding/templates) you may want to ctrl-c the exec command restart the local server with the above command
