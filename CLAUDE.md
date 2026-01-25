@@ -42,6 +42,23 @@ Two types of includes in `_includes/`:
 
 SCSS files in `_sass/` using Foundation framework. Numbered files indicate load order (01-11). Compiled CSS output goes to `assets/css/`.
 
+### Images for News/Ride Posts
+
+When adding images to news or ride posts, create two sized versions:
+- **Thumbnail** (~271px width): Use for the `thumb` frontmatter field
+- **Title/Homepage** (1024x768): Use for both `title` and `homepage` frontmatter fields
+
+Example frontmatter:
+```yaml
+image:
+    thumb: my_image_271_203.jpg
+    homepage: my_image_1024_768.jpg
+    title: my_image_1024_768.jpg
+    caption: Image description
+```
+
+Name files descriptively with dimensions: `descriptive_name_1024_768.jpg`, `descriptive_name_271_203.jpg`
+
 ## Deployment
 
 Automatic via GitHub Actions on push to `main`. The workflow builds Jekyll with baseurl `/gvdbr` and deploys to GitHub Pages.
