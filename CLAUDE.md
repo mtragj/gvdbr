@@ -13,7 +13,7 @@ Jekyll-based static website for the Grand Valley Dirt Bike Rally (GVDBR), an ann
 bundle install
 
 # Run local development server
-bundle exec jekyll server --config _config_dev.yml,_config.yml
+bundle exec jekyll server --config _config.yml,_config_dev.yml
 # Access at http://127.0.0.1:4000/gvdbr/
 ```
 
