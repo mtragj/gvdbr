@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - north_desert
+    - easy
 show_meta: false    
 image:
     thumb: ladies_ride_easy_271_203.jpg

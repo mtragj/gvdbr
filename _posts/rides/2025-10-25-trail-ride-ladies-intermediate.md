@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - north_desert
+    - intermediate
 show_meta: false    
 image:
     thumb: sarlacc_intermediate_scenic_271_203.jpg

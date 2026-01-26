@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - rabbit_valley
+    - advanced
 show_meta: false    
 image:
     thumb: rabbit_valley_w_rim_scenic.jpg

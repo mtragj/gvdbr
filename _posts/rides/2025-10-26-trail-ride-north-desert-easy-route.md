@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - north_desert
+    - easy
 show_meta: false    
 image:
     thumb: North_Dez_easy_1.jpg

@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - rabbit_valley
+    - intermediate
 show_meta: false    
 image:
     thumb: rabbit_valley_trail_2_scenic.jpg

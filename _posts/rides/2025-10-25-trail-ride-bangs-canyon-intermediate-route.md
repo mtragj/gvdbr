@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - bangs_canyon
+    - intermediate
 show_meta: false    
 image:
     thumb: bangs_intermediate.jpg

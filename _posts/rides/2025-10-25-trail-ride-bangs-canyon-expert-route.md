@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - bangs_canyon
+    - expert
 show_meta: false    
 image:
     thumb: bangs_rampage.jpg

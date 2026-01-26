@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - rabbit_valley
+    - expert
 show_meta: false    
 image:
     thumb: rv_trail8_front.jpg

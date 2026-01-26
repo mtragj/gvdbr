@@ -19,11 +19,21 @@
   side: left
   dropdown:
   - title: "North Desert"
-    url: "/rides/north_desert/"  
+    url: "/rides/north_desert/"
   - title: "Rabbit Valley"
     url: "/rides/rabbit_valley/"
   - title: "Bangs Canyon"
-    url: "/rides/bangs_canyon/"    
+    url: "/rides/bangs_canyon/"
+  - title: "─────────────"
+    url: "/rides/"
+  - title: "Easy"
+    url: "/rides/easy/"
+  - title: "Intermediate"
+    url: "/rides/intermediate/"
+  - title: "Advanced"
+    url: "/rides/advanced/"
+  - title: "Expert"
+    url: "/rides/expert/"    
 
 - title: Register
   url: "/register/"
