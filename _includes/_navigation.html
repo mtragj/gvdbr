@@ -59,7 +59,7 @@
                         {% assign domain = '' %}
                         {% assign _baseurl = '' %}
                         {% else %}
-                        {% assign domain = '' %}
+                        {% assign domain = site.url %}
                       {% endif %}
 
                       <li><a {% if dropdown_link.class %}class="{{dropdown_link.class}}"{% endif %} href="{{ domain }}{{ _baseurl }}{{ dropdown_link.url }}"{% if dropdown_link.url contains 'http' %} target="_blank"{% endif %}>{{ dropdown_link.title | escape }}</a></li>
