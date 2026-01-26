@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - north_desert
+    - intermediate
 show_meta: false    
 image:
     thumb: blm_100_ktm_300x255.jpg

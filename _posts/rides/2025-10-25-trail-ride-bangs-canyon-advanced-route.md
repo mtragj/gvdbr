@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - bangs_canyon
+    - advanced
 show_meta: false    
 image:
     thumb: bangs_scenic.jpg

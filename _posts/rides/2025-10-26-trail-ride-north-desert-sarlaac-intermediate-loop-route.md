@@ -10,6 +10,7 @@ tags:
 categories:
     - rides
     - north_desert
+    - intermediate
 show_meta: false    
 image:
     thumb: sarlaac_n_desert.jpg
