@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "Activities"
+title: "2025 Activities"
 subheadline:
-teaser: "Weekend activity schedule — times and events for Friday, Saturday and Sunday."
+teaser: "Weekend activity schedule for last years Rally — this years will be released over the summer."
 header:
   image_fullwidth: singletrack_plains_header.png
 permalink: "/activities/"
@@ -145,7 +145,7 @@ permalink: "/activities/"
       </tr>
       <tr>
         <td class="time">7:30AM - 7:30PM</td>
-        <td>Armando's Food Taco Truck</td>
+        <td><s>Armando's Food Taco Truck</s></td>
       </tr>
       <tr>
         <td class="time">5PM</td>
@@ -194,7 +194,7 @@ permalink: "/activities/"
     </tbody>
   </table>
 
-  <h2>Giveaway Prizes</h2>
+  <h2>2025 Giveaway Prizes</h2>
   <div style="background: #f9f9f9; padding: 20px; border-radius: 6px; margin-bottom: 20px;">
     <p style="margin-bottom: 15px; font-weight: bold; color: #d63638;">You must be present to win!</p>
     <ul style="margin: 0; padding-left: 20px;">
