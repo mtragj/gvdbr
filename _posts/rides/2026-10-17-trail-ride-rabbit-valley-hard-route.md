@@ -2,8 +2,8 @@
 layout: ride
 sidebar: right
 subheadline: Trail Ride
-title:  "Rabbit Valley - Advanced Route"
-teaser: "36.3 fast-paced, difficult ride through Rabbit Valley"
+title:  "Rabbit Valley - Advanced, Singletrack"
+teaser: "36+ mile fast-paced, difficult singletrack ride through Rabbit Valley"
 breadcrumb: true
 tags:
     - ride
@@ -19,14 +19,14 @@ image:
     caption: Western Rim
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: 9:00 am Oct 25th, 2025
-    sun: 9:00 am Oct 26th, 2025
-    where: Rabbit Valley
-    leader: Johnathan Van Fleet (Sat) / David Hazleton (Sun)
-    difficulty: Hard
-    distance: 36.3 Miles
+    sat: 8:30 am Oct 17th, 2026
+    sun: 8:30 am Oct 18th, 2026
+    where: Rabbit Valley Training Track
+    leader: TBD
+    difficulty: Advanced
+    distance: 36+ Miles
     pace: Fast
-    terrain: Singletrack, Full Width OHV. Aggresive whoops, rocks, ledges, and chop, this route has it all.
+    terrain: Tr4, Tr8, Tr3, Zion Curtain, Overlook Loop, Western Rim, Tr2 Singletracks. Aggresive whoops, rocks, ledges, and chop, this route has it all.
     directions: https://www.google.com/maps/search/39.185341,+-109.016393?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=09e9bdd6-4ee5-492b-840f-69049c887ed9
     
 ---

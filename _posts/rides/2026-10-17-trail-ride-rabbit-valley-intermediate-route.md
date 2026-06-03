@@ -3,7 +3,7 @@ layout: ride
 sidebar: right
 subheadline: Trail Ride
 title:  "Rabbit Valley - Intermediate Loop"
-teaser: "27.6 mile flowy, scenic loop through Rabbit Valley"
+teaser: "24 mile flowy, scenic singletrack loop through Rabbit Valley"
 breadcrumb: true
 tags:
     - ride
@@ -19,14 +19,14 @@ image:
     caption: Trail 2
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: 9:30 am Oct 25th, 2025
-    sun: 9:30 am Oct 26th, 2025
-    where: Rabbit Valley
-    leader: Stephan Kaufmann 
+    sat: 9:00 am Oct 17th, 2026
+    sun: 9:00 am Oct 18th, 2026
+    where: Rabbit Valley Restroom Lot
+    leader: TBD
     difficulty: Intermediate
-    distance: 27.6 Miles
+    distance: 24 Miles
     pace: Slow, Moderate
-    terrain: Singletrack, 50" OHV, Full width OHV. Moderate ledges, sand, loose rock, exposure, ledge drops.
+    terrain: Tr2, Western Rim, Kokopelli. Singletrack, 50" OHV, Full width OHV. Moderate ledges, sand, loose rock, exposure, ledge drops.
     directions: https://www.google.com/maps/search/39.187043,+-109.018870?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=3bf1c2b4-6e2d-44d6-953b-1eaeeb49e25d
 
 ---

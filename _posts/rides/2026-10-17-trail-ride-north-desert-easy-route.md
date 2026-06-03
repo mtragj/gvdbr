@@ -19,13 +19,14 @@ image:
     caption: North Dez Easy
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: 10:00 am Oct 25th, 2025
-    where: 18 Road Staging Area
-    leader: Jareth Ishmael
+    sat: 10:00 am Oct 17th, 2026
+    sun: 10:00 am Oct 18th, 2026
+    where: 18 Road Open Ride Staging Area
+    leader: TBD
     difficulty: Easy
     distance: 15 Miles
     pace: Comfortable
-    terrain: Easy flowing singletrack and doubletrack with a fun wash section
+    terrain: Fruita North Desert Singletrack / Doubletracks. Easy flowing singletrack and doubletrack with a fun wash section.
     directions: https://www.google.com/maps/search/39.255649,+-108.718538?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD
 ---
 15 mile loop through the North Fruita Desert.  
