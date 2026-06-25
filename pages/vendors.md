@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Sponsors"
 subheadline:
-teaser: "These vendors have made it possible to put this event on and keep admission reasonable, please thank them by giving them your business!" 
+teaser: "2026 vendors coming soon!" 
 header:
   image_fullwidth: singletrack_plains_header.png
 permalink: "/sponsors/"
@@ -49,7 +49,7 @@ permalink: "/sponsors/"
 }
 </style>
 
-<div class="sponsor-row">
+<!-- <div class="sponsor-row">
   <div class="sponsor">
     <a href="https://www.motorcycleaccessoriesgj.com/"><img src="{{ site.urlimg }}sponsor_logos/motorcycle_accessories.png" alt=""></a>
     <p><a href="https://www.motorcycleaccessoriesgj.com/">Motorcycle Accessories</a></p>
@@ -86,5 +86,5 @@ permalink: "/sponsors/"
     <a href="https://slavensracing.com/"><img src="{{ site.urlimg }}sponsor_logos/slavens_racing.jpg" alt=""></a>
     <p><a href="https://slavensracing.com/">Slavens Racing</a></p>
   </div>
-</div>
+</div> -->
 

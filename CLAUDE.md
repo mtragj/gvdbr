@@ -6,6 +6,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Jekyll-based static website for the Grand Valley Dirt Bike Rally (GVDBR), an annual event hosted by the Motorcycle Trail Riding Association (MTRA). Deployed to GitHub Pages at `https://mtragj.github.io/gvdbr/`.
 
+## Branching Workflow
+
+**Before writing any code for a new feature or change**, always complete steps 1–2 first:
+
+1. Fetch and checkout the latest `main` branch (`git fetch origin main && git checkout main && git pull origin main`)
+2. Create a new branch named `minor/na/<feature_name>` where `feature_name` is a brief description joined by underscores (e.g., `minor/na/add_moderation_queue`)
+3. Implement the changes on this branch
+4. When ready, push the branch to the remote and open a PR against `main`
+
 ## Build Commands
 
 ```bash

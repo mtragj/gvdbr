@@ -3,7 +3,7 @@ layout: ride
 sidebar: right
 subheadline: Trail Ride
 title:  "North Desert - Sarlaac Loop"
-teaser: "31 mile loop through the North Fruita Desert Book Cliffs."
+teaser: "44 mile advanced loop through the North Fruita Desert Book Cliffs."
 breadcrumb: true
 tags:
     - ride
@@ -19,14 +19,14 @@ image:
     caption: North Dez Sarlaac Loop
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: 9:00 am Oct 25th, 2025
-    sun: 9:00 am Oct 26th, 2025
-    where: 18 Road BLM Area
-    leader: David Hazleton (Sat)/ Johnathan Van Fleet (Sun)
+    sat: 9:00 am Oct 17th, 2026
+    sun: 9:00 am Oct 18th, 2026
+    where: Fruita N. Desert BLM RTE 174
+    leader: TBD
     difficulty: Advanced
-    distance: 47 Miles
+    distance: 44 Miles
     pace: Moderate to fast
-    terrain: Flowy bench cut singletrack with consistent exposure, and moderate obstacles. Exposure is high the first half of this ride, but tapers off toward the end of the ride.
+    terrain: RTE 174, Sarlector, Lane Mine, Sarlacc, Skywalker, Cicada, Cloud City, Lipan Wash. Flowy bench cut singletrack with consistent exposure, and moderate obstacles. Exposure is high the first half of this ride, but tapers off toward the end of the ride.
     directions: https://maps.app.goo.gl/QiQ5Z3UXUyWTzB7o6
 ---
 "47 mile Advanced skill level Sarlac/North Desert loop. Ride begins at 5,300 ft elevation, climbing up to 7,400 ft elevation. Lots of open edge vertical exposure; if you deal with vertigo, this is not the ride for you. 

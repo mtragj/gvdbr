@@ -20,9 +20,9 @@ image:
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: N/A
-    sun: 10:30 am Oct 26th, 2025
-    where: 18 Road Staging Area
-    leader: Leah Hendricks
+    sun: 10:30 am Oct 18th, 2026
+    where: 18 Road Open Ride Staging Area
+    leader: TBD
     difficulty: Easy
     distance: 15 Miles
     pace: Comfortable
