@@ -45,8 +45,8 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        # run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        run: bundle exec jekyll build --baseurl "/gvdbr" # Ugly hardcode, configure-pages action isn't outputting properly currently
+        # Custom domain (grandvalleydirtbikerally.com) is served at the root, so no baseurl prefix.
+        run: bundle exec jekyll build --baseurl ""
         env:
           JEKYLL_ENV: production
       - name: Upload artifact

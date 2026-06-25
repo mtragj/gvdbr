@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Jekyll-based static website for the Grand Valley Dirt Bike Rally (GVDBR), an annual event hosted by the Motorcycle Trail Riding Association (MTRA). Deployed to GitHub Pages at `https://mtragj.github.io/gvdbr/`.
+Jekyll-based static website for the Grand Valley Dirt Bike Rally (GVDBR), an annual event hosted by the Motorcycle Trail Riding Association (MTRA). Deployed to GitHub Pages and served at the custom domain `https://grandvalleydirtbikerally.com/` (configured via the root `CNAME` file).
 
 ## Branching Workflow
 
@@ -23,7 +23,7 @@ bundle install
 
 # Run local development server
 bundle exec jekyll server --config _config.yml,_config_dev.yml
-# Access at http://127.0.0.1:4000/gvdbr/
+# Access at http://127.0.0.1:4000/
 ```
 
 The site auto-regenerates on content file changes. For template/layout changes, restart the server.
@@ -70,4 +70,4 @@ Name files descriptively with dimensions: `descriptive_name_1024_768.jpg`, `desc
 
 ## Deployment
 
-Automatic via GitHub Actions on push to `main`. The workflow builds Jekyll with baseurl `/gvdbr` and deploys to GitHub Pages.
+Automatic via GitHub Actions on push to `main`. The workflow builds Jekyll with an empty baseurl (the site is served at the root of the custom domain) and deploys to GitHub Pages. The root `CNAME` file tells GitHub Pages to serve the site at `grandvalleydirtbikerally.com`.
