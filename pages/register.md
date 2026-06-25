@@ -41,8 +41,7 @@ The 2026 Grand Valley Dirt Bike Rally will be hosted on October 16th - 18th, 202
     Ensure your bike is in a well-maintained, good working condition before showing up for your ride. Bring tools to be able to address problems on the trail and ensure you bring lots of food and water. Helmet, eye protection, boots, gloves, and long pants are required. 
   </p>
 
-<a class="radius button small" href="">2026 Registration coming soon!</a>
-<!-- <a class="radius button small" href="https://www.signupgenius.com/go/10C0549ABA72EA7F8C16-57468629-grand#/">Register for the Event!</a> -->
+<a class="radius button small" href="https://www.signupgenius.com/go/10C0549ABA72EA7F8C16-63176643-grand#/">Register for the Event!</a>
 
  <!--[1]: {{ site.url }}{{ site.baseurl }}/documentation/-->
 

@@ -102,14 +102,18 @@ permalink: "/activities/"
       <tr>
         <td class="time">12PM - 3PM</td>
         <td>Event/Vendor Setup</td>
-      </tr>
+      </tr>      
       <tr>
         <td class="time">3PM - 8PM</td>
         <td><strong>Registration</strong></td>
       </tr>
       <tr>
-        <td class="time">4PM - 8:30PM</td>
-        <td>Smokey Bonez Food Truck</td>
+        <td class="time">3PM - 6PM</td>
+        <td>Vendor Expo</td>
+      </tr>      
+      <tr>
+        <td class="time">3PM - 7PM</td>
+        <td>Food Truck - TBD</td>
       </tr>
       <tr>
         <td class="time">4PM - 8PM</td>
@@ -121,7 +125,7 @@ permalink: "/activities/"
       </tr>     
       <tr>
         <td class="time">6PM - 8PM</td>
-        <td>Live DJ by <strong>Monumental Mayham Productions</strong></td>
+        <td>Music or a Movie</td>
       </tr>
     </tbody>
   </table>
@@ -140,28 +144,20 @@ permalink: "/activities/"
         <td><strong>Registration</strong></td>
       </tr>
       <tr>
-        <td class="time">8AM - 10:30AM</td>
-        <td>Rides departing from event area</td>
+        <td class="time">3PM - 7PM</td>
+        <td>Food Truck - TBD</td>
       </tr>
       <tr>
-        <td class="time">7:30AM - 7:30PM</td>
-        <td><s>Armando's Food Taco Truck</s></td>
-      </tr>
+        <td class="time">4PM - 8PM</td>
+        <td>Vendor Expo</td>
+      </tr>            
       <tr>
         <td class="time">5PM</td>
         <td>Slow Ride Contest</td>
       </tr>
       <tr>
-        <td class="time">5:45PM</td>
-        <td>Costume Contest</td>
-      </tr>
-      <tr>
-        <td class="time">6:15PM</td>
-        <td>Giveaways Drawing</td>
-      </tr>
-      <tr>
         <td class="time">6PM - 8PM</td>
-        <td>Live Music by <strong>Hillbilly Riot!</strong></td>
+        <td>Music or a Movie</td>
       </tr>
     </tbody>
   </table>
@@ -180,21 +176,13 @@ permalink: "/activities/"
         <td><strong>Registration</strong></td>
       </tr>
       <tr>
-        <td class="time">8AM -10:30AM</td>
-        <td>Riders departing from Event Area</td>
-      </tr>
-      <tr>
-        <td class="time">8AM - 12PM</td>
-        <td>Yard Games</td>
-      </tr>
-      <tr>
         <td class="time">12PM - 5PM</td>
         <td>Teardown/Depart</td>
       </tr>
     </tbody>
   </table>
 
-  <h2>2025 Giveaway Prizes</h2>
+  <!-- <h2>2025 Giveaway Prizes</h2>
   <div style="background: #f9f9f9; padding: 20px; border-radius: 6px; margin-bottom: 20px;">
     <p style="margin-bottom: 15px; font-weight: bold; color: #d63638;">You must be present to win!</p>
     <ul style="margin: 0; padding-left: 20px;">
@@ -206,5 +194,5 @@ permalink: "/activities/"
       <li>Double Take Trail Mirrors</li>
       <li>Goggles, Riding Gloves, T-Shirts, Hats, and many other items!</li>
     </ul>
-  </div>
+  </div> -->
 </div>

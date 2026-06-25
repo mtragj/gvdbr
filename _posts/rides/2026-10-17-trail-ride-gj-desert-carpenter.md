@@ -13,9 +13,9 @@ categories:
     - easy
 show_meta: false    
 image:
-    thumb: North_Dez_easy_1.jpg
-    homepage: north_dez_easy_2.jpg
-    title: north_dez_easy_2.jpg
+    thumb: carpenter_ridge_271_203.jpg
+    homepage: carpenter_ridge_1024_768.jpg
+    title: carpenter_ridge_1024_768.jpg
     caption: GJ Desert
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
@@ -27,7 +27,7 @@ ride:
     distance: 15+ Miles
     pace: Comfortable
     terrain: Carpenter Mine, GJ Desert Open OHV. Easy open desert two-track and OHV trails.
-    directions:
+    directions: https://www.google.com/maps/place/39%C2%B009'45.1%22N+108%C2%B032'02.5%22W/@39.1625405,-108.5349678,362m/
 ---
 This easy 15+ mile ride explores the GJ Desert OHV area out of the 27-1/4 Road MX Track, making its way out to the Carpenter Mine.
 

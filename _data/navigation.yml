@@ -20,6 +20,8 @@
   dropdown:
   - title: "North Desert"
     url: "/rides/north_desert/"
+  - title: "GJ Desert"
+    url: "/rides/gj_desert/"
   - title: "Rabbit Valley"
     url: "/rides/rabbit_valley/"
   - title: "Bangs Canyon"
@@ -32,8 +34,9 @@
     url: "/rides/intermediate/"
   - title: "Advanced"
     url: "/rides/advanced/"
-  - title: "Expert"
-    url: "/rides/expert/"    
+  # Expert dropped for 2026 — uncomment to bring back
+  # - title: "Expert"
+  #   url: "/rides/expert/"
 
 - title: Register
   url: "/register/"

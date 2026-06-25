@@ -36,7 +36,7 @@ widget3:
 #
 callforaction:
   url: '/register/'
-  text: Registration for 2026 GVDBR Coming Soon!
+  text: Registration for the 2026 GVDBR!
   style: alert
 permalink: /index.html
 #
