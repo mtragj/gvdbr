@@ -144,8 +144,8 @@ permalink: "/activities/"
         <td><strong>Registration</strong></td>
       </tr>
       <tr>
-        <td class="time">3PM - 7PM</td>
-        <td>Food Truck - TBD</td>
+        <td class="time">4PM - 8PM</td>
+        <td>Bravos Food Truck</td>
       </tr>
       <tr>
         <td class="time">4PM - 8PM</td>
