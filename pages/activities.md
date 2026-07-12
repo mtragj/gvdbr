@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-title: "2025 Activities"
+title: "2026 Activities"
 subheadline:
-teaser: "Weekend activity schedule for last years Rally — this years will be released over the summer."
+teaser: "Weekend activity schedule for the 2026 Rally - check back for updates!"
 header:
   image_fullwidth: singletrack_plains_header.png
 permalink: "/activities/"
