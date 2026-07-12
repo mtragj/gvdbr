@@ -26,9 +26,9 @@ The 2026 Grand Valley Dirt Bike Rally will be hosted on October 16th - 18th, 202
     <li>If a parent/legal guardian is not in attendance, the youth participant must have an annual release on file and the representative of the parents must have a guardianship signed by both parents and notarized.</li>
   </ul>
 
-  <h3 style="color: #1e90ff;">Weather</h3>
+  <h3 style="color: #1e90ff;">Refunds</h3>
   <p>
-    <strong>No refunds</strong> will be issued in the event of inclement weather causing cancellation of any of the rides, at the discretion of MTRA. Your registration will be saved and will be valid for sign-up next year.
+   Refunds will be issued at the discretion of the MTRA.
   </p>
 
   <h3 style="color: #228b22;">Fees</h3>

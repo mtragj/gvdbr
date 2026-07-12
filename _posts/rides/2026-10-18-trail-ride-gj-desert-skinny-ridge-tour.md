@@ -28,6 +28,6 @@ ride:
     terrain: Tour of Skinny Ridge, Mini Skinny, and Fun Washes in the GJ Desert.
     directions:
 ---
-Kick off the rally weekend with a Friday afternoon guided tour of the GJ Desert out of the 27-1/4 Road MX Track.
+A Sunday afternoon guided tour of the GJ Desert out of the 27-1/4 Road MX Track.
 
-This relaxed tour takes in Skinny Ridge, Mini Skinny, and a few fun washes. A great way to get a taste of the local desert riding before the main event rides. The ride runs from 3:00 to 5:00 pm on Friday, October 16th.
+This relaxed tour takes on Skinny Ridge, Mini Skinny, and a few fun washes. A great way to get to see the highlights of the local desert riding to cap off the event. The ride runs from 3:00 to 5:00 pm on Sunday, October 18th.
