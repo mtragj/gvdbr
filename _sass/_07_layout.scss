@@ -11,6 +11,7 @@
 - Masthead › xlarge-up
 - Breadcrumb
 - Meta
+- Sidebar
 - Jump to top
 - Footer
 - Subfooter
@@ -242,6 +243,21 @@ body.video cite { color: #fff; }
     text-decoration: none;
     color: $secondary-color;
   }
+
+
+
+/* Sidebar
+------------------------------------------------------------------- */
+
+/* Underline links in the details panel (Ride/Event/Volunteer sidebars) so
+   they read as links -- the global anchor style has no underline. */
+aside .panel li a {
+    text-decoration: underline;
+}
+aside .panel li a:hover {
+    text-decoration: none;
+    color: $secondary-color;
+}
 
 
 
