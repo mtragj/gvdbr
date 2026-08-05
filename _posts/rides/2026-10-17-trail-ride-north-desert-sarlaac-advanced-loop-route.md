@@ -13,10 +13,10 @@ categories:
     - advanced
 show_meta: false    
 image:
-    thumb: sarlaac_n_desert.jpg
-    homepage: sarlaac_n_desert.jpg
-    title: sarlaac_n_desert.jpg
-    caption: North Dez Sarlaac Loop
+    thumb: sarlaac_advanced_271_203.jpg
+    homepage: sarlaac_advanced_1024_768.jpg
+    title: sarlaac_advanced_1024_768.jpg
+    caption: North Dez Sarlaac Loop - Advanced
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: 9:00 am Oct 17th, 2026

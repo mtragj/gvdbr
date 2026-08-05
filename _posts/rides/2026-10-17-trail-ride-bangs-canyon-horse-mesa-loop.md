@@ -13,9 +13,9 @@ categories:
     - intermediate
 show_meta: false    
 image:
-    thumb: bangs_intermediate.jpg
-    homepage: bangs_intermediate.jpg
-    title: bangs_intermediate.jpg
+    thumb: bangs_canyon_intermediate_horse_mesa_271_203.jpg
+    homepage: bangs_canyon_intermediate_horse_mesa_1024_768.jpg
+    title: bangs_canyon_intermediate_horse_mesa_1024_768.jpg
     caption: Horse Mesa
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:

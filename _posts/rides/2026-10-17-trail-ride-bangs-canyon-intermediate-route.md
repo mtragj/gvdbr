@@ -13,10 +13,10 @@ categories:
     - intermediate
 show_meta: false    
 image:
-    thumb: bangs_intermediate.jpg
-    homepage: bangs_intermediate.jpg
-    title: bangs_intermediate.jpg
-    caption: Second Thoughts
+    thumb: bangs_canyon_intermediate_windmill_271_203.jpg
+    homepage: bangs_canyon_intermediate_windmill_1024_768.jpg
+    title: bangs_canyon_intermediate_windmill_1024_768.jpg
+    caption: Windmill Loop
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: 9:30 am Oct 17th, 2026

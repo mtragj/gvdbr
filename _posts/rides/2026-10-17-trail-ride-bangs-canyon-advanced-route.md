@@ -13,10 +13,10 @@ categories:
     - advanced
 show_meta: false    
 image:
-    thumb: bangs_scenic.jpg
-    homepage: bangs_intermediate.jpg
-    title: bangs_intermediate.jpg
-    caption: Second Thoughts
+    thumb: bangs_canyon_advanced_singletrack_271_203.jpg
+    homepage: bangs_canyon_advanced_singletrack_1024_768.jpg
+    title: bangs_canyon_advanced_singletrack_1024_768.jpg
+    caption: Bangs Canyon Advanced Singletrack
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: 9:00 am Oct 17th, 2026
