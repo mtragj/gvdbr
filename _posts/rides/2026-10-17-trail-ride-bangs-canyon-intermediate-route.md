@@ -3,7 +3,7 @@ layout: ride
 sidebar: right
 subheadline: Trail Ride
 title:  "Bangs Canyon - Intermediate, Windmill Loop"
-teaser: "22 mile multi-terrain full-width loop through Windmill 4x4 and Bangs Canyon 4x4, with views of the town from high up and fun low consequence obstacles."
+teaser: "20 mile multi-terrain full-width loop through Windmill 4x4 and Bangs Canyon 4x4, with views of the town from high up and fun low consequence obstacles."
 breadcrumb: true
 tags:
     - ride
@@ -13,10 +13,10 @@ categories:
     - intermediate
 show_meta: false    
 image:
-    thumb: bangs_intermediate.jpg
-    homepage: bangs_intermediate.jpg
-    title: bangs_intermediate.jpg
-    caption: Second Thoughts
+    thumb: bangs_canyon_intermediate_windmill_271_203.jpg
+    homepage: bangs_canyon_intermediate_windmill_1024_768.jpg
+    title: bangs_canyon_intermediate_windmill_1024_768.jpg
+    caption: Windmill Loop
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: 9:30 am Oct 17th, 2026
@@ -24,12 +24,11 @@ ride:
     where: Bangs Canyon Trailhead
     leader: TBD
     difficulty: Intermediate
-    distance: 22 Miles
+    distance: 20 Miles
     pace: Moderate
-    terrain: Third Flats Rd through Windmill 4x4 and Bangs Canyon 4x4. Multi-terrain full width trail that includes slickrock ledges, sand, loose rocks, and dirt.
+    terrain: Billings Canyon access road, Third Flats/Windmill Loop, Tabeguache and Bangs Canyon trail. Multi-terrain full width trail that includes hard-pack, mild sand, rocky ledges, stair steps, and loose rocks.
     directions: https://www.google.com/maps/place/Bangs+Canyon+Trailhead+(Mica+Mine)/@39.000581,-108.6063045,346m/data=!3m1!1e3!4m6!3m5!1s0x87471acd5672f0a9:0xe3c22c332cd7614f!8m2!3d38.9887574!4d-108.6171538!16s%2Fg%2F11b7hm_319?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD
 ---
-"This 22 mile loop is located in the rocky high desert just south west of Grand Junction off of Little Park Road. The loop begins at the Third Flats Trailhead (the onX Offroad ratings are included for reference). It starts with a three mile single track, Second Thoughts (5/10 intermediate), and 20 miles of jeep trails - Third Flats/Windmill Loop (4/10 intermediate), Tabeguache (7/10 difficult - although the four mile section needed to complete this loop is closer to a 5-6/10, with options around the more difficult sections) and Billings Canyon Road (3/10 easy).
-Some sections are flowing hard pack or mild sand; however, the overall characteristic of this route is rough, rocky and fatiguing. The rocky sections are a mixture of jagged rocks embedded in the hardpack, 6""-14"" ledges and stair steps, and long sections of steep ascents/descents with a combination of large embedded rocks and loose softball sized rocks.
-Riders for this trail should possess strong intermediate skills and reasonable riding endurance/fitness. Bikes should be well maintained dirt bikes/dual sports with aggressive tires and good suspension.
-There will be two or three scheduled rest stops to take in the scenic views and have a snack. The time on trail will be approximately 4 hours."
+This 20 mile loop is located in the rocky high desert just south-west of Grand Junction, off of Little Park Road. The loop begins at the Bangs Canyon Trailhead. It starts with Billings Canyon access road, followed by Third Flats/Windmill Loop, Tabeguache trail and Bangs Canyon trail. Some sections are fun, flowing hard-pack and mild sand with other areas being rocky ledges, stair steps and loose rocks.
+
+Riders for this trail should possess strong intermediate skills and reasonable riding endurance/fitness. Bikes should be well maintained dirt bikes/dual sports with aggressive tires and good suspension. There will be scheduled rest stops to take in the scenic views and have a snack. The time on trail will be approximately 4 hours.

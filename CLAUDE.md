@@ -47,6 +47,42 @@ Two types of includes in `_includes/`:
 - `pages/` - Static markdown pages
 - `_data/` - YAML data files for navigation, authors, social media, i18n strings
 
+### Renaming Posts & Redirects
+
+Post URLs come from `permalink: /:categories/:title/`, so a post's URL is its
+`categories` frontmatter plus the filename slug (the leading date is stripped).
+Renaming the file or editing `categories` **moves the URL and 404s any link
+already shared**. Changing only the date in the filename is safe here — unlike
+`mtragj`, the date is not part of the permalink.
+
+The theme has a built-in `redirect` layout (`_layouts/redirect.html`) for this —
+no plugins needed. Do **not** add `jekyll-redirect-from`.
+
+1. Rename the post with `git mv` and update any affected frontmatter/body text.
+2. Add a stub at `pages/redirects/<old-slug>.md` per old URL:
+   ```yaml
+   ---
+   title: "<Title> (moved)"
+   layout: redirect
+   sitemap:
+       exclude: true    # NOTE: _includes/sitemap_collection.xml checks
+                        # `sitemap.exclude`, NOT the `sitemap: false` shown
+                        # in the redirect layout's own header comment
+   permalink: /rides/north_desert/advanced/trail-ride-old-slug/    # OLD url
+   redirect_to: /rides/north_desert/advanced/trail-ride-new-slug/  # NEW url
+   ---
+   ```
+   - This repo's `redirect.html` emits `page.redirect_to` verbatim (it does not
+     prepend `site.url`/`site.baseurl`), so use **root-relative paths starting
+     with `/`**. Absolute `http(s)://` URLs also work.
+   - A stub is a *page*, not a post, so it never appears in `site.categories.*`
+     ride listings or the search index.
+   - One stub per old URL. If a post moves twice, repoint or chain the stubs so
+     every previously-shared URL still resolves.
+3. Verify with a production build (`bundle exec jekyll build --config _config.yml`):
+   the old path's `index.html` should contain a `<meta http-equiv="refresh">` to
+   the new URL, and `sitemap.xml` should not mention the old slug.
+
 ### Styling
 
 SCSS files in `_sass/` using Foundation framework. Numbered files indicate load order (01-11). Compiled CSS output goes to `assets/css/`.

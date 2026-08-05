@@ -3,7 +3,7 @@ layout: ride
 sidebar: right
 subheadline: Trail Ride
 title:  "Rabbit Valley - Advanced, Singletrack"
-teaser: "36+ mile fast-paced, difficult singletrack ride through Rabbit Valley"
+teaser: "50 mile fast-paced, difficult singletrack ride through Rabbit Valley"
 breadcrumb: true
 tags:
     - ride
@@ -24,12 +24,14 @@ ride:
     where: Rabbit Valley Training Track
     leader: TBD
     difficulty: Advanced
-    distance: 36+ Miles
+    distance: 50 Miles
     pace: Fast
-    terrain: Tr4, Tr8, Tr3, Zion Curtain, Overlook Loop, Western Rim, Tr2 Singletracks. Aggresive whoops, rocks, ledges, and chop, this route has it all.
+    terrain: Tr8, Tr3, Kokopelli, Westwater Loop, Zion Curtain, Overlook, Adobe, Western Rim, Tr2. Aggresive whoops, rocks, ledges, and chop, this route has it all.
     directions: https://www.google.com/maps/search/39.185341,+-109.016393?entry=tts&g_ep=EgoyMDI1MDYyMy4yIPu8ASoASAFQAw%3D%3D&skid=09e9bdd6-4ee5-492b-840f-69049c887ed9
     
 ---
-This loop will be a fast paced trail ride through some challenging sharp edged rocky terrain including ledges, rocky sand whoops, hill descents, technical moves. The route will begin by crossing the interstate headed North into the desert. The groups first singletrack  technical singletrack will begin on Zion Curtain which is a fast flowy ride through the cedar trees which includes loose rocky sharp edged rocks, ledge drops, and hill descents. The trail continues on the Overlook Loop which has lots of sandy rocky whoops which will keep riders on their toes. There will be a short ride down a full width road descending into lower Rabbit Valley up to the Adobe Singletrack. Riders should be prepared for some ankle height rocks that may pull their feet off the pegs, and a few more ledge drops. Western Rim trail is next on the list which will be a fun, fast paced singletrack that skirts the upper rim of the Colorado River canyon giving off great views the entire length. To finish off the day the last trail will be Trail #2 which starts singletrack and ends as doubletrack, but is fast paced terrain with fun obstacles along the way. Riders should have good bike control and bike setup for running through sharp edge choppy terrain. This will be a great adventure that will challenge any rider. 
+This 50 mile loop will begin at the Rabbit Valley Training Track heading to Trail 8 followed by Trail 3. We then will cross into Utah as we ride Kokopelli, Westwater loop, Zion Curtain, Overlook, Adobe and Western Rim. We will end on Trail 2, back into Colorado. This is a fast, flowy ride that includes ledges, rocks, drops, hill descents, sandy whoops and fun obstacles with technical moves.
+
+Riders should have solid advanced skills and good riding endurance, and a bike setup to run through sharp edge, choppy terrain. There will be scheduled rest stops to take in the views and have a snack, with a few photo opportunities overlooking the Colorado River. The time on trail will be approximately 5 hours.
 
 <b>Note:</b> This route crosses into Utah, visit this page for Utah Requirements <a href="{{ site.url }}{{ site.baseurl }}/rideutah/">Ride Utah</a>
