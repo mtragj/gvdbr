@@ -54,7 +54,7 @@ staging point, mileage, or route. Known examples:
 - [ ] Review every matched ride's body for stale distance/staging/route details.
 
 ## 6. New-ride descriptions are first drafts
-The 5 brand-new rides (Horse Mesa, Sarlaac Skywalker, Kokopelli 4x4, Knolls
+The 5 brand-new rides (Horse Mesa, Sarlacc Skywalker, Kokopelli 4x4, Knolls
 Overlook, GJ Carpenter, Skinny Ridge Tour) have brief bodies written from the
 dump's short trail list. Verify accuracy, especially:
 

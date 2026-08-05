@@ -2,7 +2,7 @@
 layout: ride
 sidebar: right
 subheadline: Trail Ride
-title:  "North Desert - Sarlaac, Skywalker"
+title:  "North Desert - Sarlacc, Skywalker"
 teaser: "27 mile intermediate+ singletrack loop on Skywalker and Sarlacc reversed."
 breadcrumb: true
 tags:

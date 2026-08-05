@@ -2,7 +2,7 @@
 layout: ride
 sidebar: right
 subheadline: Trail Ride
-title:  "North Desert - Sarlaac Loop"
+title:  "North Desert - Sarlacc Loop"
 teaser: "44 mile advanced loop through the North Fruita Desert Book Cliffs."
 breadcrumb: true
 tags:
@@ -13,10 +13,10 @@ categories:
     - advanced
 show_meta: false    
 image:
-    thumb: sarlaac_advanced_271_203.jpg
-    homepage: sarlaac_advanced_1024_768.jpg
-    title: sarlaac_advanced_1024_768.jpg
-    caption: North Dez Sarlaac Loop - Advanced
+    thumb: sarlacc_advanced_271_203.jpg
+    homepage: sarlacc_advanced_1024_768.jpg
+    title: sarlacc_advanced_1024_768.jpg
+    caption: North Dez Sarlacc Loop - Advanced
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: 9:00 am Oct 17th, 2026
