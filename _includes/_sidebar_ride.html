@@ -2,6 +2,7 @@
 	<div class="panel radius">
 		<h3>Ride Details</h3>
 		<ul>
+			{% if page.ride.fri %}<li><b>Fri:</b> {{ page.ride.fri }}</li>{% endif %}
 			<li><b>Sat:</b> {{ page.ride.sat }}</li>
 			<li><b>Sun:</b> {{ page.ride.sun }}</li>
 			<li><b>Where:</b> <a href="{{page.ride.directions}}">{{ page.ride.where }}</a></li>
