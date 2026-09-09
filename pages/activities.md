@@ -117,7 +117,7 @@ permalink: "/activities/"
       </tr>
       <tr>
         <td class="time">4PM - 6PM</td>
-        <td><a href="{{ site.url }}{{ site.baseurl }}/rides/gj_desert/easy/skills-training-trail-skills-enhancer/">Trail Skills Enhancer</a> - beginner/novice skills training at the 27-1/4 Road staging area</td>
+        <td><a href="{{ site.url }}{{ site.baseurl }}/rides/gj_desert/easy/skills-training-trail-skills-enhancer/">Trail Skills Enhancer</a> - beginner/novice skills training at the 27-1/4 Road MX Track</td>
       </tr>
       <tr>
         <td class="time">4PM - 8PM</td>

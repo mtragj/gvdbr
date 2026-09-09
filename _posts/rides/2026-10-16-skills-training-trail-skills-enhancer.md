@@ -21,7 +21,7 @@ ride:
     fri: 4:00 - 6:00 pm Oct 16th, 2026
     sat: N/A
     sun: N/A
-    where: 27-1/4 Road Staging Area
+    where: 27-1/4 Road MX Track
     leader: David Hazleton & Ronnie Bennet (USMCA Certified Coaches)
     difficulty: Beginner / Novice
     distance: N/A - Skills Training
@@ -29,7 +29,7 @@ ride:
     terrain: Staging area drills - no trail riding
     directions: https://www.google.com/maps/place/39%C2%B009'45.1%22N+108%C2%B032'02.5%22W/@39.1625405,-108.5349678,362m/
 ---
-Kick off the weekend with a two hour trail skills enhancer session at the 27-1/4 Road staging area on Friday afternoon, from 4:00 to 6:00 pm.
+Kick off the weekend with a two hour trail skills enhancer session at the 27-1/4 Road MX Track on Friday afternoon, from 4:00 to 6:00 pm.
 
 Hosted by USMCA certified coaches David Hazleton and Ronnie Bennet, this session focuses on beginner and novice level fundamentals — body position, clutch and throttle control, braking, turning, and picking a line — the core skills that make the rest of the weekend's rides more comfortable and more fun.
 
