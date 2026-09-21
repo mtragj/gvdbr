@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "2026 Activities"
 subheadline:
-teaser: "Weekend activity schedule for the 2026 Rally - check back for updates!"
+teaser: "Weekend activity schedule for the 2026 Rally - including our Saturday night door prize drawing for a GASGAS e-bike! Check back for updates!"
 header:
   image_fullwidth: singletrack_plains_header.png
 permalink: "/activities/"
@@ -159,6 +159,10 @@ permalink: "/activities/"
         <td class="time">5PM</td>
         <td>Slow Ride Contest</td>
       </tr>
+      <tr style="background: #fdf1f1;">
+        <td class="time">6PM</td>
+        <td><strong><a href="#door-prizes">Door Prize Drawing</a></strong> - win a GASGAS e-bike! Must be present to win</td>
+      </tr>
       <tr>
         <td class="time">6PM - 8PM</td>
         <td>Music or a Movie</td>
@@ -186,17 +190,6 @@ permalink: "/activities/"
     </tbody>
   </table>
 
-  <!-- <h2>2025 Giveaway Prizes</h2>
-  <div style="background: #f9f9f9; padding: 20px; border-radius: 6px; margin-bottom: 20px;">
-    <p style="margin-bottom: 15px; font-weight: bold; color: #d63638;">You must be present to win!</p>
-    <ul style="margin: 0; padding-left: 20px;">
-      <li>Klim $250 Gift Certificate</li>
-      <li>Fly Racing Helmet</li>
-      <li>Easy Rider Helmet</li>
-      <li>ADAC Full Day Dirt Bike Tours</li>
-      <li>ADAC 1/2 Day Private Dirt Bike Clinic</li>
-      <li>Double Take Trail Mirrors</li>
-      <li>Goggles, Riding Gloves, T-Shirts, Hats, and many other items!</li>
-    </ul>
-  </div> -->
+  {% assign register_url = site.url | append: site.baseurl | append: "/register/" %}
+  {% include door_prizes cta_url=register_url %}
 </div>

@@ -15,6 +15,12 @@ permalink           : "/register/"
 The 2026 Grand Valley Dirt Bike Rally will be hosted on October 16th - 18th, 2026 with multiple guided rides on Saturday and Sunday across the Grand Valley. There will be registration check-in on site, vendor booths, food trucks, and activities at our main event site at the <a href="https://maps.app.goo.gl/eYvQMGQFdTL6SLk26">27 1/4 rd MotoCross Track Event Area</a> through out the event weekend. This event is designed to promote our local trail systems, bring riders from across the region together for a fun weekend of riding, and help grow the local club ( MTRA ) to enable it to continue promoting responsible recreation and partnerships with our local public agencies to maintain and build new trails.
 </p>
 
+<h2>Register and You Could Win a GASGAS E-Bike!</h2>
+<p>
+Every registered rider is automatically entered in our Saturday night door prize drawing. This year's grand prize is a brand new <strong>2024 GASGAS Moto 1 E-Bike ($2,599 MSRP)</strong> from Teddy Morse's Grand Junction Powersports, with a <strong>$250 Klim gift card</strong> for the runner up. Sign up for a ride, then join us at the event area Saturday evening for the drawing!
+</p>
+{% include door_prizes cta_url="https://www.signupgenius.com/go/10C0549ABA72EA7F8C16-63176643-grand#/" cta_text="Register now to get your entry!" %}
+
 <h2>Important Things to Note</h2>
 <div style="background: #f8f8f8; border-radius: 8px; border: 1px solid #e0e0e0; padding: 1.5em; margin-bottom: 2em;">
   <h3 style="color: #b22222; margin-top: 0;">Waivers</h3>
