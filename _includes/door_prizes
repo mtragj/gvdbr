@@ -1,0 +1,140 @@
+{% comment %}
+*
+*   Door prize giveaway card. To use this include no `.html` ending is necessary.
+*
+*       {% include door_prizes %}
+*
+*   Pass `cta_url` and `cta_text` to show a button at the bottom of the card:
+*
+*       {% include door_prizes cta_url="/register/" cta_text="Register to get your entry" %}
+*
+{% endcomment %}
+<style>
+.door-prizes {
+  margin: 28px 0;
+  border: 2px solid #d63638;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.door-prizes__banner {
+  margin: 0;
+  padding: 10px 16px;
+  background: #d63638;
+  color: #fff;
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-align: center;
+}
+.door-prizes__grand {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 24px;
+  padding: 20px 20px 8px;
+  background: #fff;
+}
+.door-prizes__img {
+  flex: 1 1 280px;
+  max-width: 420px;
+  margin: 0 auto;
+}
+.door-prizes__img img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.door-prizes__details {
+  flex: 1 1 260px;
+}
+.door-prizes__label {
+  display: inline-block;
+  margin: 0 0 6px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  background: #1f2937;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+.door-prizes__details h3 {
+  margin: 4px 0 6px;
+  font-size: 26px;
+  line-height: 1.2;
+}
+.door-prizes__msrp {
+  margin: 0 0 8px;
+  font-size: 18px;
+}
+.door-prizes__msrp strong {
+  color: #d63638;
+}
+.door-prizes__sponsor {
+  margin: 0;
+  font-size: 15px;
+  color: #444;
+}
+.door-prizes__runner {
+  margin: 0 20px;
+  padding: 14px 0;
+  border-top: 1px dashed #ddd;
+}
+.door-prizes__runner h4 {
+  margin: 4px 0 0;
+  font-size: 20px;
+}
+.door-prizes__rules {
+  margin: 0;
+  padding: 16px 20px 18px;
+  background: #f6f6f6;
+}
+.door-prizes__rules ul {
+  margin: 0 0 0 20px;
+}
+.door-prizes__rules li {
+  margin-bottom: 4px;
+  font-size: 15px;
+}
+.door-prizes__cta {
+  margin: 12px 0 0;
+  text-align: center;
+}
+</style>
+
+<section class="door-prizes" id="door-prizes">
+  <p class="door-prizes__banner">2026 Rally Door Prizes</p>
+
+  <div class="door-prizes__grand">
+    <div class="door-prizes__img">
+      <img src="{{ site.urlimg }}gasgas_moto1_ebike_725_588.png" alt="Red 2024 GASGAS Moto 1 electric bike" width="725" height="588">
+    </div>
+    <div class="door-prizes__details">
+      <span class="door-prizes__label">Grand Prize</span>
+      <h3>2024 GASGAS Moto 1 E&#8209;Bike</h3>
+      <p class="door-prizes__msrp">A <strong>$2,599 MSRP</strong> value!</p>
+      <p class="door-prizes__sponsor">Generously donated by <a href="https://www.gjktm.com/" target="_blank" rel="noopener noreferrer">Teddy Morse's Grand Junction Powersports</a></p>
+    </div>
+  </div>
+
+  <div class="door-prizes__runner">
+    <span class="door-prizes__label">Runner Up</span>
+    <h4>$250 <a href="https://www.klim.com/" target="_blank" rel="noopener noreferrer">Klim</a> Gift Card</h4>
+  </div>
+
+  <div class="door-prizes__rules">
+    <ul>
+      <li><strong>One entry for every ride you sign up for</strong> - ride Saturday <em>and</em> Sunday to double your chances!</li>
+      <li>Entry is automatic with registration - no extra tickets or forms</li>
+      <li><strong>Drawing:</strong> Saturday, October 17th at 6:00 PM at the 27-1/4 Road MX Track event area</li>
+      <li><strong style="color: #d63638;">You must be present to win!</strong></li>
+    </ul>
+    {% if include.cta_url %}
+    <p class="door-prizes__cta"><a class="radius button small alert" href="{{ include.cta_url }}">{{ include.cta_text | default: "Register to get your entry" }}</a></p>
+    {% endif %}
+  </div>
+</section>
