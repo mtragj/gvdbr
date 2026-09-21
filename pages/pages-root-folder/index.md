@@ -13,6 +13,12 @@ widget1:
   image: gvdbr_logo_271_168.png
   text: 'The Grand Valley Dirt Bike Rally will return in 2026, put on by the MTRA! We will be offering guided rides in 3 different areas with a variety of lengths and difficulties as well as an event area with exciting activities.'
 
+widget2:
+  title: "Win a GASGAS E&#8209;Bike!"
+  url: '/register/#door-prizes'
+  image: gasgas_moto1_ebike_271_220.png
+  text: 'Every ride you sign up for is an entry to win a 2024 GASGAS Moto 1 E-Bike ($2,599 MSRP) from Teddy Morse&#39;s Grand Junction Powersports or a $250 Klim gift card! Drawing is Saturday at 6 PM - must be present to win.'
+
 # widget2:
 #   title: "Why use this theme?"
 #   url: 'http://phlow.github.io/feeling-responsive/info/'
