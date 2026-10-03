@@ -22,7 +22,8 @@ ride:
     sat: N/A
     sun: 10:30 am Oct 18th, 2026
     where: 18 Road Open Ride Staging Area
-    leader: TBD
+    leader:
+        sun: Leah Hendricks
     difficulty: Easy
     distance: 15 Miles
     pace: Comfortable

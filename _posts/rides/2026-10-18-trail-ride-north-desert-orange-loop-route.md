@@ -13,16 +13,17 @@ categories:
     - intermediate
 show_meta: false    
 image:
-    thumb: North_dez_intermediate.jpg
-    homepage: north_dez_easy_2.jpg
-    title: north_dez_easy_2.jpg
+    thumb: orange_loop_271_203.jpg
+    homepage: orange_loop_1024_768.jpg
+    title: orange_loop_1024_768.jpg
     caption: North Dez Orange Loop
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: 9:30 am Oct 17th, 2026
+    sat: N/A
     sun: 9:30 am Oct 18th, 2026
     where: 18 Road Open Ride Staging Area
-    leader: TBD
+    leader:
+        sun: Ben Larson
     difficulty: Intermediate
     distance: 18 Miles
     pace: Comfortable

@@ -6,7 +6,22 @@
 			<li><b>Sat:</b> {{ page.ride.sat }}</li>
 			<li><b>Sun:</b> {{ page.ride.sun }}</li>
 			<li><b>Where:</b> <a href="{{page.ride.directions}}">{{ page.ride.where }}</a></li>
+			{% if page.ride.leader.sat or page.ride.leader.sun %}
+			<li><b>Leader:</b>
+				<ul>
+					{% if page.ride.leader.sat %}<li>Sat: {{ page.ride.leader.sat }}</li>{% endif %}
+					{% if page.ride.leader.sun %}<li>Sun: {{ page.ride.leader.sun }}</li>{% endif %}
+				</ul>
+			</li>
+			{% elsif page.ride.leader.first %}
+			<li><b>Leader:</b>
+				<ul>
+					{% for name in page.ride.leader %}<li>{{ name }}</li>{% endfor %}
+				</ul>
+			</li>
+			{% else %}
 			<li><b>Leader:</b> {{ page.ride.leader }}</li>
+			{% endif %}
 			<li><b>Difficulty:</b> {{ page.ride.difficulty }}</li>
             <li><b>Pace:</b> {{ page.ride.pace }}</li>
             <li><b>Distance:</b> {{ page.ride.distance }}</li>

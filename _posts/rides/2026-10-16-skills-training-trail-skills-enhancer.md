@@ -2,7 +2,7 @@
 layout: ride
 sidebar: right
 subheadline: Skills Training
-title:  "Trail Skills Enhancer - Beginner/Novice Skills Training"
+title:  "Trail Skills Enhancer"
 teaser: "Friday afternoon beginner/novice skills clinic with USMCA certified coaches to get you dialed in for the weekend."
 breadcrumb: true
 tags:
@@ -22,7 +22,9 @@ ride:
     sat: N/A
     sun: N/A
     where: 27-1/4 Road MX Track
-    leader: David Hazleton & Ronnie Bennet (USMCA Certified Coaches)
+    leader:
+        - David Hazleton
+        - Ronnie Bennet
     difficulty: Beginner / Novice
     distance: N/A - Skills Training
     pace: Instructional
