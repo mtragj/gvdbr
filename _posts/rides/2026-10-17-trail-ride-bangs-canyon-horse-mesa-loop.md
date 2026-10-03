@@ -22,7 +22,7 @@ ride:
     sat: 10:00 am Oct 17th, 2026
     sun: 10:00 am Oct 18th, 2026
     where: Third Flats Trailhead
-    leader: TBD
+    leader: 'Sat: Ronnie Bennet, Sun: David Hazleton'
     difficulty: Intermediate
     distance: 18 Miles
     pace: Moderate

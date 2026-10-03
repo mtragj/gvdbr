@@ -22,7 +22,7 @@ ride:
     sat: 9:00 am Oct 17th, 2026
     sun: 9:00 am Oct 18th, 2026
     where: Third Flats Trailhead
-    leader: TBD
+    leader: 'Sat: Ruxton Noble, Sun: Weldon Medina'
     difficulty: Advanced
     distance: 45 Miles
     pace: Fast to Moderate

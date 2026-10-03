@@ -22,7 +22,7 @@ ride:
     sat: 10:00 am Oct 17th, 2026
     sun: 10:00 am Oct 18th, 2026
     where: 18 Road Open Ride Staging Area
-    leader: TBD
+    leader: 'Sat: Kyle Muhr, Sun: Mike Peyton'
     difficulty: Easy
     distance: 15 Miles
     pace: Comfortable

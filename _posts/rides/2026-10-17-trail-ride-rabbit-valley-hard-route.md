@@ -22,7 +22,7 @@ ride:
     sat: 8:30 am Oct 17th, 2026
     sun: 8:30 am Oct 18th, 2026
     where: Rabbit Valley Training Track
-    leader: TBD
+    leader: 'Sat: Chris Vestal, Sun: J VanVleet'
     difficulty: Advanced
     distance: 50 Miles
     pace: Fast

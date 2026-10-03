@@ -22,7 +22,7 @@ ride:
     sat: 9:00 am Oct 17th, 2026
     sun: 9:00 am Oct 18th, 2026
     where: Fruita N. Desert BLM RTE 174
-    leader: TBD
+    leader: 'Sat: Weldon Medina, Sun: Chris Vestal'
     difficulty: Advanced
     distance: 44 Miles
     pace: Moderate to fast

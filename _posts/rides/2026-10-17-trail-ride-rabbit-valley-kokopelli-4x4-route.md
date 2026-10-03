@@ -22,7 +22,7 @@ ride:
     sat: 9:30 am Oct 17th, 2026
     sun: 9:30 am Oct 18th, 2026
     where: Rabbit Valley Main Lot
-    leader: TBD
+    leader: 'Sat: Randy Hatch, Sun: Robbie Coulter'
     difficulty: Intermediate
     distance: 20 Miles
     pace: Comfortable, Moderate

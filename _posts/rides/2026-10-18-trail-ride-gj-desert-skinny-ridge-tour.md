@@ -21,7 +21,7 @@ ride:
     sat: N/A
     sun: 3:00 pm Oct 18th, 2026
     where: 27-1/4 Road MX Track
-    leader: TBD
+    leader: 'Sun: David Hazleton'
     difficulty: Intermediate
     distance: 20 Miles
     pace: Moderate

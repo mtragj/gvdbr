@@ -19,10 +19,10 @@ image:
     caption: BLM 100 Hilltop View
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
-    sat: N/A
-    sun: 9:00 am Oct 18th, 2026
+    sat: 9:00 am Oct 17th, 2026
+    sun: N/A
     where: 18 Road Open Ride Staging Area
-    leader: Ben Larson
+    leader: 'Sat: Ben Larson'
     difficulty: Intermediate
     distance: 60 Miles
     pace: Moderate

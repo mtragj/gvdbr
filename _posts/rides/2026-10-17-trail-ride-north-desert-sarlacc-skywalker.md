@@ -22,7 +22,7 @@ ride:
     sat: 9:30 am Oct 17th, 2026
     sun: 9:30 am Oct 18th, 2026
     where: Coal Gulch 16 Road
-    leader: TBD
+    leader: 'Sat: J VanVleet, Sun: Ronnie Bennet'
     difficulty: Intermediate+
     distance: 27 Miles
     pace: Moderate

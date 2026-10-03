@@ -22,7 +22,7 @@ ride:
     sat: 9:30 am Oct 17th, 2026
     sun: 9:30 am Oct 18th, 2026
     where: 27-1/4 Road MX Track
-    leader: TBD
+    leader: 'Sat: Dave Clapp, Sun: Dave Clapp'
     difficulty: Easy
     distance: 15+ Miles
     pace: Comfortable

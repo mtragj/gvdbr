@@ -22,7 +22,7 @@ ride:
     sat: 10:00 am Oct 17th, 2026
     sun: 10:00 am Oct 18th, 2026
     where: Rabbit Valley Main Lot
-    leader: TBD
+    leader: 'Sat: Mike Peyton, Sun: Kyle Muhr'
     difficulty: Easy
     distance: 16 Miles
     pace: Comfortable
