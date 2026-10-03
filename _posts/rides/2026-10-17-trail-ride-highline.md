@@ -21,13 +21,13 @@ image:
 ride:
     sat: 9:00 am Oct 17th, 2026
     sun: N/A
-    where: 18 Road Open Ride Staging Area
+    where: Fruita North Desert BLM RTE 174
     leader: 'Sat: Ben Larson'
     difficulty: Intermediate
     distance: 60 Miles
     pace: Moderate
     terrain: Trail 100 Out and Back. Flowy desert single-track, whoops, washes.
-    directions: https://www.google.com/maps/search/39.255649,+-108.718538?entry=tts&g_ep=EgoyMDI0MDgyMS4wKgBIAVAD
+    directions: https://maps.app.goo.gl/QiQ5Z3UXUyWTzB7o6
 ---
 Join us as we ride flowy desert single-track in the North Fruita Desert nearly all the way to the Utah State Border.
 
