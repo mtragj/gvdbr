@@ -26,7 +26,28 @@ bundle exec jekyll server --config _config.yml,_config_dev.yml
 # Access at http://127.0.0.1:4000/
 ```
 
-The site auto-regenerates on content file changes. For template/layout changes, restart the server.
+The site auto-regenerates on content file changes. For template/layout changes, restart the server. Changes to `_config.yml` (including front-matter `defaults:`) also need a restart.
+
+### Verifying changes without disturbing the dev server
+
+The developer's `jekyll serve` is usually already running on port 4000, so don't kill or reuse it. Pick the cheapest check that proves the change:
+
+- **Content, frontmatter, sidebar text:** build to a temp dir and grep the output HTML. No browser needed.
+  ```bash
+  bundle exec jekyll build --config _config.yml --destination "$TMPDIR/_site"
+  ```
+- **Layout, CSS, header/banner:** take a headless screenshot. `_config_dev.yml` sets `url: 'http://localhost:4000'`, so CSS and images load from that host and the screenshot comes out unstyled if nothing serves it there. Override the URL and serve the build on another port:
+  ```bash
+  printf "url: 'http://127.0.0.1:4100'\nbaseurl: ''\n" > "$TMPDIR/url.yml"
+  bundle exec jekyll build --config _config.yml,_config_dev.yml,"$TMPDIR/url.yml" --destination "$TMPDIR/_site"
+  (cd "$TMPDIR/_site" && nohup python3 -m http.server 4100 >/dev/null 2>&1 &)
+  google-chrome --headless --no-sandbox --disable-gpu --virtual-time-budget=4000 \
+    --window-size=1300,700 --screenshot="$TMPDIR/shot.png" http://127.0.0.1:4100/<path>/
+  ```
+  `--virtual-time-budget` is needed so the JS banner image (backstretch) loads. Check one page per breakpoint (e.g. 800, 1300, 1700 wide); phones (<640px) hide the logo by design.
+- **Gotchas:**
+  - Deleting and rebuilding the served directory leaves the server pointing at a stale path; restart it.
+  - Stop a test server by PID from `ss -ltnp | grep :4100`. Don't use `pkill -f` or `ps | awk` on the command text in the same shell command; it matches the shell itself.
 
 ## Architecture
 
