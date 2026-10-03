@@ -46,6 +46,7 @@ The developer's `jekyll serve` is usually already running on port 4000, so don't
   ```
   `--virtual-time-budget` is needed so the JS banner image (backstretch) loads. Check one page per breakpoint (e.g. 800, 1300, 1700 wide); phones (<640px) hide the logo by design.
 - **Gotchas:**
+  - `compress.html` only runs when `JEKYLL_ENV=production` (deploy does this), so dev builds and `jekyll serve` hide compression bugs. Before merging page/layout changes, also build with `JEKYLL_ENV=production bundle exec jekyll build --config _config.yml --baseurl "" --destination "$TMPDIR/_prod"` and grep the output. Its comment stripper only closes a comment at ` -->` (with a leading space), so a multi-line HTML comment ending in a bare `-->` swallows everything up to the next comment in the page. Use `{% comment %}` in content instead.
   - Deleting and rebuilding the served directory leaves the server pointing at a stale path; restart it.
   - Stop a test server by PID from `ss -ltnp | grep :4100`. Don't use `pkill -f` or `ps | awk` on the command text in the same shell command; it matches the shell itself.
 

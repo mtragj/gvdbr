@@ -69,7 +69,9 @@ permalink: "/sponsors/"
 .sponsor.silver p { font-size: 16px; font-weight: bold; }
 </style>
 
-<!-- Platinum sponsor: none yet for 2026. Uncomment and fill in when one signs on.
+{% comment %}
+Platinum sponsor: none yet for 2026. Remove the comment tags and fill in when one signs on.
+(Use a Liquid comment, not an HTML one: compress.html mishandles multi-line HTML comments.)
 <h2 class="sponsor-tier-title platinum">Platinum Sponsor</h2>
 <div class="sponsor-row">
   <div class="sponsor platinum">
@@ -77,7 +79,7 @@ permalink: "/sponsors/"
     <p><a href="URL">NAME</a></p>
   </div>
 </div>
--->
+{% endcomment %}
 
 <h2 class="sponsor-tier-title gold">Gold Sponsors</h2>
 <div class="sponsor-row">
