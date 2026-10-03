@@ -125,6 +125,20 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: phlow     # Default author for posts
+  -
+    scope:
+      path: '_posts/rides'
+      type: 'posts'
+    values:
+      header:
+        image_fullwidth: singletrack_plains_header.png   # Banner for ride posts
+  -
+    scope:
+      path: '_posts/news'
+      type: 'posts'
+    values:
+      header:
+        image_fullwidth: singletrack_plains_header.png   # Banner for news posts
 
 
 
