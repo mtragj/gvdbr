@@ -22,7 +22,9 @@ ride:
     sat: N/A
     sun: N/A
     where: 27-1/4 Road MX Track
-    leader: David Hazleton & Ronnie Bennet (USMCA Certified Coaches)
+    leader:
+        - David Hazleton
+        - Ronnie Bennet
     difficulty: Beginner / Novice
     distance: N/A - Skills Training
     pace: Instructional

@@ -13,6 +13,12 @@
 					{% if page.ride.leader.sun %}<li>Sun: {{ page.ride.leader.sun }}</li>{% endif %}
 				</ul>
 			</li>
+			{% elsif page.ride.leader.first %}
+			<li><b>Leader:</b>
+				<ul>
+					{% for name in page.ride.leader %}<li>{{ name }}</li>{% endfor %}
+				</ul>
+			</li>
 			{% else %}
 			<li><b>Leader:</b> {{ page.ride.leader }}</li>
 			{% endif %}
