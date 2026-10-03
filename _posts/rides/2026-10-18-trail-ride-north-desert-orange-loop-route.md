@@ -13,9 +13,9 @@ categories:
     - intermediate
 show_meta: false    
 image:
-    thumb: North_dez_intermediate.jpg
-    homepage: north_dez_easy_2.jpg
-    title: north_dez_easy_2.jpg
+    thumb: orange_loop_271_203.jpg
+    homepage: orange_loop_1024_768.jpg
+    title: orange_loop_1024_768.jpg
     caption: North Dez Orange Loop
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:

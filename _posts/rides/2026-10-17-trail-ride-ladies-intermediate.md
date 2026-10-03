@@ -13,10 +13,10 @@ categories:
     - intermediate
 show_meta: false    
 image:
-    thumb: rabbit_valley_trail_2_scenic.jpg
-    homepage: rabbit_valley_trail_2_hazelton.jpg
-    title: rabbit_valley_trail_2_hazelton.jpg
-    caption: Rabbit Valley Trail 2
+    thumb: rabbit_valley_western_rim_271_203.jpg
+    homepage: rabbit_valley_western_rim_1024_768.jpg
+    title: rabbit_valley_western_rim_1024_768.jpg
+    caption: Rabbit Valley Western Rim
     # caption_url: https://www.kannahcreekbrewingco.com/edgewater
 ride:
     sat: 10:00 am Oct 17th, 2026
