@@ -2,7 +2,7 @@
 layout: ride
 sidebar: right
 subheadline: Skills Training
-title:  "Trail Skills Enhancer - Beginner/Novice Skills Training"
+title:  "Trail Skills Enhancer"
 teaser: "Friday afternoon beginner/novice skills clinic with USMCA certified coaches to get you dialed in for the weekend."
 breadcrumb: true
 tags:
