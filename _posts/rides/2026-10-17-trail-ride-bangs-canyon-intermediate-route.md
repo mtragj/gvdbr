@@ -22,7 +22,9 @@ ride:
     sat: 9:30 am Oct 17th, 2026
     sun: 9:30 am Oct 18th, 2026
     where: Bangs Canyon Trailhead
-    leader: 'Sat: Robbie Coulter, Sun: Randy Hatch'
+    leader:
+        sat: Robbie Coulter
+        sun: Randy Hatch
     difficulty: Intermediate
     distance: 20 Miles
     pace: Moderate

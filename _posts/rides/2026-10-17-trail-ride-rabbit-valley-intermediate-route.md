@@ -22,7 +22,9 @@ ride:
     sat: 9:00 am Oct 17th, 2026
     sun: 9:00 am Oct 18th, 2026
     where: Rabbit Valley Restroom Lot
-    leader: 'Sat: Stephan Kaufmann, Sun: Stephan Kaufmann'
+    leader:
+        sat: Stephan Kaufmann
+        sun: Stephan Kaufmann
     difficulty: Intermediate
     distance: 24 Miles
     pace: Slow, Moderate

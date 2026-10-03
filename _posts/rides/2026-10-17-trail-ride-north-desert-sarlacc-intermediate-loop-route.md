@@ -22,7 +22,9 @@ ride:
     sat: 10:30 am Oct 17th, 2026
     sun: 10:30 am Oct 18th, 2026
     where: Coal Gulch 16 Road
-    leader: 'Sat: David Hazleton, Sun: Ruxton Noble'
+    leader:
+        sat: David Hazleton
+        sun: Ruxton Noble
     difficulty: Intermediate
     distance: 31 Miles
     pace: Moderate
