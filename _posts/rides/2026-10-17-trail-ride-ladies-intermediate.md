@@ -22,7 +22,8 @@ ride:
     sat: 10:00 am Oct 17th, 2026
     sun: N/A
     where: Rabbit Valley Restroom Lot
-    leader: 'Sat: Leah Hendricks'
+    leader:
+        sat: Leah Hendricks
     difficulty: Intermediate
     distance: 24 Miles
     pace: Slow, Moderate

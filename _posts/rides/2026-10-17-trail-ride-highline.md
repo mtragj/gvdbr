@@ -22,7 +22,8 @@ ride:
     sat: 9:00 am Oct 17th, 2026
     sun: N/A
     where: Fruita North Desert BLM RTE 174
-    leader: 'Sat: Ben Larson'
+    leader:
+        sat: Ben Larson
     difficulty: Intermediate
     distance: 60 Miles
     pace: Moderate

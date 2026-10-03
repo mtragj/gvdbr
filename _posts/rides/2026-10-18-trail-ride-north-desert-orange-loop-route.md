@@ -22,7 +22,8 @@ ride:
     sat: N/A
     sun: 9:30 am Oct 18th, 2026
     where: 18 Road Open Ride Staging Area
-    leader: 'Sun: Ben Larson'
+    leader:
+        sun: Ben Larson
     difficulty: Intermediate
     distance: 18 Miles
     pace: Comfortable

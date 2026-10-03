@@ -6,11 +6,11 @@
 			<li><b>Sat:</b> {{ page.ride.sat }}</li>
 			<li><b>Sun:</b> {{ page.ride.sun }}</li>
 			<li><b>Where:</b> <a href="{{page.ride.directions}}">{{ page.ride.where }}</a></li>
-			{% if page.ride.leader.sat and page.ride.leader.sun %}
+			{% if page.ride.leader.sat or page.ride.leader.sun %}
 			<li><b>Leader:</b>
 				<ul>
-					<li>Sat: {{ page.ride.leader.sat }}</li>
-					<li>Sun: {{ page.ride.leader.sun }}</li>
+					{% if page.ride.leader.sat %}<li>Sat: {{ page.ride.leader.sat }}</li>{% endif %}
+					{% if page.ride.leader.sun %}<li>Sun: {{ page.ride.leader.sun }}</li>{% endif %}
 				</ul>
 			</li>
 			{% else %}
