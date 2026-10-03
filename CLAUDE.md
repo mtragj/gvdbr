@@ -45,7 +45,14 @@ The developer's `jekyll serve` is usually already running on port 4000, so don't
     --window-size=1300,700 --screenshot="$TMPDIR/shot.png" http://127.0.0.1:4100/<path>/
   ```
   `--virtual-time-budget` is needed so the JS banner image (backstretch) loads. Check one page per breakpoint (e.g. 800, 1300, 1700 wide); phones (<640px) hide the logo by design.
+- **Production-mode build (do this before merging page/layout/content changes):** the deploy runs with `JEKYLL_ENV=production`, which turns on `_layouts/compress.html` (HTML minification). Dev builds and `jekyll serve` skip it (`compress_html.ignore.envs: [development]`), so compression bugs only show up live. Build the way the deploy does and grep the output:
+  ```bash
+  JEKYLL_ENV=production bundle exec jekyll build --config _config.yml --baseurl "" --destination "$TMPDIR/_prod"
+  grep -c "<something that should be on the page>" "$TMPDIR/_prod/<path>/index.html"
+  ```
+  Output is minified to few lines, so `grep -c` counts lines, not occurrences; check for specific strings (names, headings) instead. A plain `jekyll build --config _config.yml` is *not* production mode unless `JEKYLL_ENV=production` is set.
 - **Gotchas:**
+  - **HTML comments in content:** `compress.html` strips comments that open with `<!-- ` and only treats one as closed at ` -->` (leading space). A multi-line comment ending in a bare `-->` on its own line makes it delete everything up to the next ` -->` further down the page (this blanked the whole sponsors page). Use `{% comment %}...{% endcomment %}` for notes/placeholders in pages and posts; single-line `<!--more-->` is fine.
   - Deleting and rebuilding the served directory leaves the server pointing at a stale path; restart it.
   - Stop a test server by PID from `ss -ltnp | grep :4100`. Don't use `pkill -f` or `ps | awk` on the command text in the same shell command; it matches the shell itself.
 
