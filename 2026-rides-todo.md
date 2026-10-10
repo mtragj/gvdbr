@@ -61,5 +61,13 @@ dump's short trail list. Verify accuracy, especially:
 - [ ] Whether the Kokopelli 4x4 and Knolls Overlook routes actually cross into Utah (the "Ride Utah" note was added by precedent from 2025 Rabbit Valley rides).
 - [ ] Photos/captions — new rides reuse existing images; swap in ride-specific images if available.
 
-## 7. Source files
+## 7. Flag bad `directions` links in GitHub Actions
+The sidebar map embed needs coordinates in `ride.directions`; `maps.app.goo.gl`
+short links have none. The template now skips the embed and warns in dev only
+(`_includes/_sidebar_ride.html`), but nothing flags it before deploy.
+
+- [ ] Add a check to `.github/workflows/` that fails if any `_posts/rides/*.md` has a `directions:` value that is not a `/@lat,lng` or `/search/lat,lng` URL (at minimum, grep for `maps.app.goo.gl`).
+- [ ] Run it on `pull_request` as well; the existing deploy workflow only runs on push to `main`, which is too late to block a bad link.
+
+## 8. Source files
 - [ ] `2026-rides.txt` (raw dump) and this TODO can be removed once the above is resolved.

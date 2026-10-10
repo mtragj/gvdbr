@@ -29,7 +29,7 @@ ride:
     distance: 44 Miles
     pace: Moderate to fast
     terrain: RTE 174, Sarlector, Lane Mine, Sarlacc, Skywalker, Cicada, Cloud City, Lipan Wash. Flowy bench cut singletrack with consistent exposure, and moderate obstacles. Exposure is high the first half of this ride, but tapers off toward the end of the ride.
-    directions: https://maps.app.goo.gl/QiQ5Z3UXUyWTzB7o6
+    directions: https://www.google.com/maps/place/39%C2%B017'44.8%22N+108%C2%B042'31.2%22W/@39.295776,-108.708669,649m/
 ---
 44 mile Advanced skill level Sarlac/North Desert loop. Ride begins at 5,300 ft elevation, climbing up to 7,400 ft elevation. Lots of open edge vertical exposure; if you deal with vertigo, this is not the ride for you. 
 

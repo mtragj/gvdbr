@@ -42,6 +42,7 @@
 	{% assign coords_array = coords_part | replace: '+', '' | split: ',' %}
 	{% assign lat = coords_array[0] | strip %}
 	{% assign lng = coords_array[1] | strip %}
+	{% if lat != '' and lng != '' %}
 	<div class="b30">
 		<iframe
 			width="300"
@@ -53,6 +54,10 @@
 			src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDQCDC7v-pRLTW4HIGl6wCEt8yGFaDEOXo&q={{ lat }},{{ lng }}&zoom=14">
 		</iframe>
 	</div>
+	{% elsif jekyll.environment == 'development' %}
+	{% comment %}No coordinates (e.g. a maps.app.goo.gl short link): skip the embed instead of showing the whole world, and warn the editor in dev only.{% endcomment %}
+	{% include alert warning="<b>No map:</b> <code>ride.directions</code> has no coordinates (short link?). Use a <code>/place/…/@lat,lng</code> or <code>/search/lat,lng</code> Google Maps URL." %}
+	{% endif %}
 	{% endif %}
 
   <img class="b30" src="{{ site.urlimg }}/gvdbr_logo_271_168.png" alt="">
