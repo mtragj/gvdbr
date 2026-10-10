@@ -17,7 +17,7 @@ The 2026 Grand Valley Dirt Bike Rally will be hosted on October 16th - 18th, 202
 
 <h2>Register and You Could Win a GASGAS E-Bike!</h2>
 <p>
-Every ride you sign up for earns you an automatic entry in our Saturday night door prize drawing - the more rides you register for, the better your odds! This year's grand prize is a brand new <strong>2024 GASGAS Moto 1 E-Bike ($2,599 MSRP)</strong> from Teddy Morse's Grand Junction Powersports, with a <strong>$250 Klim gift card</strong> for the runner up. Sign up for your rides, then join us at the event area Saturday evening for the drawing!
+Every ride you sign up for earns you an automatic entry in our Saturday night door prize drawing - the more rides you register for, the better your odds! This year's grand prize is a brand new <strong>2024 GASGAS Moto 1 E-Bike ($2,599 MSRP)</strong> from Teddy Morse's Grand Junction Powersports, with a <strong>$250 Klim gift card</strong> for the runner up, plus <strong>over $3,000 in additional prizes</strong> from our sponsors. Sign up for your rides, then join us at the event area Saturday evening for the drawing!
 </p>
 {% include door_prizes cta_url="https://www.signupgenius.com/go/10C0549ABA72EA7F8C16-63176643-grand#/" cta_text="Register now to get your entry!" %}
 

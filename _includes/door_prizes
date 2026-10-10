@@ -88,6 +88,71 @@
   margin: 4px 0 0;
   font-size: 20px;
 }
+.door-prizes__more {
+  padding: 16px 20px 20px;
+  border-top: 1px dashed #ddd;
+}
+.door-prizes__more-title {
+  margin: 0 0 4px;
+  font-size: 20px;
+  text-align: center;
+}
+.door-prizes__more-total {
+  margin: 0 0 14px;
+  text-align: center;
+  font-size: 16px;
+}
+.door-prizes__more-total strong {
+  color: #d63638;
+}
+.door-prizes__cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+}
+@media (max-width: 560px) {
+  .door-prizes__cards {
+    grid-template-columns: 1fr;
+  }
+}
+.door-prizes__card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  background: #fafafa;
+  overflow: hidden;
+}
+.door-prizes__card h4 {
+  margin: 0;
+  padding: 8px 12px;
+  background: #1f2937;
+  color: #fff;
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.door-prizes__card h4 a {
+  color: #fff;
+}
+.door-prizes__card-value {
+  margin: 0;
+  padding: 8px 12px 0;
+  font-size: 15px;
+  font-weight: 700;
+  color: #d63638;
+}
+.door-prizes__card ul {
+  margin: 6px 12px 12px 28px;
+}
+.door-prizes__card li {
+  margin-bottom: 2px;
+  font-size: 15px;
+}
+.door-prizes__more-note {
+  margin: 12px 0 0;
+  font-size: 13px;
+  color: #666;
+  text-align: center;
+}
 .door-prizes__rules {
   margin: 0;
   padding: 16px 20px 18px;
@@ -124,6 +189,51 @@
   <div class="door-prizes__runner">
     <span class="door-prizes__label">Runner Up</span>
     <h4>$250 <a href="https://www.klim.com/" target="_blank" rel="noopener noreferrer">Klim</a> Gift Card</h4>
+  </div>
+
+  <div class="door-prizes__more">
+    <h3 class="door-prizes__more-title">Plus More Prizes from Our Sponsors!</h3>
+    <p class="door-prizes__more-total">Over <strong>$3,000</strong> in additional prizes</p>
+    <div class="door-prizes__cards">
+      <div class="door-prizes__card">
+        <h4><a href="https://www.bajadesigns.com/" target="_blank" rel="noopener noreferrer">Baja Designs</a></h4>
+        <p class="door-prizes__card-value">~$2,600 in prizes</p>
+        <ul>
+          <li>2&times; Moto Minded XL80 LED Headlight Kit</li>
+          <li>2&times; Moto Minded XL40 LED Headlight Kit</li>
+          <li>S1 Spot LEDs (pair)</li>
+          <li>S1 Trail LEDs (pair)</li>
+          <li>S1 Wide Cornering LEDs (pair)</li>
+        </ul>
+      </div>
+      <div class="door-prizes__card">
+        <h4><a href="https://www.doubletakemirror.com/" target="_blank" rel="noopener noreferrer">DoubleTake Mirrors</a></h4>
+        <p class="door-prizes__card-value">~$180 in prizes</p>
+        <ul>
+          <li>Dual Sport Mirror 3.5 Kit</li>
+          <li>Enduro Mirror 2.0 Kit</li>
+          <li>2&times; Trail Mirror</li>
+        </ul>
+      </div>
+      <div class="door-prizes__card">
+        <h4><a href="https://www.all-terrainmoto.com/" target="_blank" rel="noopener noreferrer">All Terrain Motorsports</a></h4>
+        <p class="door-prizes__card-value">~$150 in prizes</p>
+        <ul>
+          <li>3&times; Hats</li>
+          <li>2&times; Goggles</li>
+          <li>1 pair of gloves</li>
+          <li>1 pair of FMF sunglasses</li>
+        </ul>
+      </div>
+      <div class="door-prizes__card">
+        <h4><a href="https://coloradotpa.org/" target="_blank" rel="noopener noreferrer">Trails Preservation Alliance</a></h4>
+        <p class="door-prizes__card-value">~$100 in prizes</p>
+        <ul>
+          <li>Silky Big Boy folding saw</li>
+        </ul>
+      </div>
+    </div>
+    <p class="door-prizes__more-note">Values are approximate retail prices.</p>
   </div>
 
   <div class="door-prizes__rules">
