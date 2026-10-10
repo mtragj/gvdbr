@@ -28,7 +28,7 @@ ride:
     distance: 60 Miles
     pace: Moderate
     terrain: Trail 100 Out and Back. Flowy desert single-track, whoops, washes.
-    directions: https://maps.app.goo.gl/QiQ5Z3UXUyWTzB7o6
+    directions: https://www.google.com/maps/place/39%C2%B017'44.8%22N+108%C2%B042'31.2%22W/@39.295776,-108.708669,649m/
 ---
 Join us as we ride flowy desert single-track in the North Fruita Desert nearly all the way to the Utah State Border.
 
